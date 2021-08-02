@@ -181,7 +181,7 @@ Let's put up the demo website for client and release our first theme version.
 
 - Automatic deployment pushes code to development environment on WP Engine
 
-- Tag `master branch` with new version number
+- Tag `master branch` with new version number `*v1.0.0*`
 
 - Merge `release branch` back into `development branch`
 
@@ -247,7 +247,7 @@ Same process will be followed that was followed for initial demo release.
 
 - Automatic deployment pushes code to development environment on wp engine
 
-- Tag `master branch` with new version number
+- Tag `master branch` with new version number `*v1.0.0*`
 
 - Merge `release branch` back into `development branch`
 
@@ -282,7 +282,7 @@ When reviews and fixes are done and all done done tickets are cleared, it's time
 
 - Automatic deployment pushes code to development environment on wp engine
 
-- Tag `master branch` with new version number
+- Tag `master branch` with new version number `*v2.0.0*`
 
 - Merge `release branch` back into `development branch`
 
@@ -371,7 +371,7 @@ When ready to share the updates with client, follow these steps.
 
 - Automatic deployment pushes code to development environment on wp engine
 
-- Tag `master branch` with new version number
+- Tag `master branch` with new version number `*v2.0.1*`
 
 - Merge `release branch` back into `development branch`
 
