@@ -17,9 +17,9 @@ This workflow deals with all stages of a project developmnt from start till laun
 
 Start off with the correct setup in WP engine website hosting account.
 
-Guidelines on how to name these environments and their respective users is available here in [Glide Nomenclature](https://github.com/) document.
+Guidelines on how to name environments and WordPress users is available here in [Glide Nomenclature](https://github.com/) document.
 
-> ✔️ Make sure to follow the nomenclature guidelines in order to ensure same naming scheme across all projects and environments.
+> ✔️ Make sure to follow the nomenclature to ensure same naming scheme across all projects and environments.
 
 <br>
 
@@ -48,7 +48,7 @@ Following is the list of tasks to be performed on WP Engine.
 
 **From this point onwards developers need to work in development environment only.**
 
-> ✔️ More information on purpose of each environment and how to use them is here in [WP Engine Environments](https://github.com/) document.
+> ✔️ Information on purpose of each environment and how to use it, is in [WP Engine Environments](https://github.com/) document.
 
 <br>
 <br>
