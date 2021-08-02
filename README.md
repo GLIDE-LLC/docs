@@ -1,6 +1,6 @@
 <br>
 
-<center>![Glide Design](images/glide.png)<center>
+![Glide Design](images/glide.png)
 
 <br>
 <br>
