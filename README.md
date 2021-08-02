@@ -403,10 +403,32 @@ When ready to share the updates with client, follow these steps.
 <br>
 <br>
 
-✔️ Its critical that all developers on all teams follow this workflow to ensure proper version control along with effective collaboration on code.
+Noticed? we made content changes twice, Following are the reasons
+
+If client has made any content changes on production website while you were working on support tickets. When you copy over `staging environment` to `production environment`. You will override his changes. 
+
+And in another scenario if you have not copied `production environment` completely to `staging environment` prior to working on support tickets, You will end up copying over older version of database to `production environment`.
+
+Always follow the simple rule explained here in [WP Engine Environments](https://github.com/) document
+
+🔺 Code moves up
+
+🔻 Data moves down
+
+**A little bit of extra effort saves the headache.**
+
+🔴🔴🔴
+Its critical that all developers on all teams follow this workflow to ensure proper version control along with effective collaboration on code.
+
+<br>
 
 Happy Coding!
+
+<br>
+<br>
 
 **Prepared by:**
 Muhammad AbuBakar
 
+<br>
+<br>
