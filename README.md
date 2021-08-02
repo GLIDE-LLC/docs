@@ -1,5 +1,3 @@
-<br>
-<br>
 
 # Development Workflow
 
@@ -8,10 +6,8 @@ Complete project development workflow for **version control** of Glide projects.
 This workflow deals with all stages of a project developmnt from start till launch. This workflow also includes process for properly supporting and maintaining the project after launch.
 
 <br>
-<br>
 
 ## 💯 WPEngine Site
----
 
 Start off with the correct setup in WP engine website hosting account.
 
@@ -21,9 +17,6 @@ Make sure to follow the nomenclature guidelines in order to ensure same naming s
 
 Following is the list of tasks to be performed on WP Engine.
 
-<br>
-
-> <br>
 >
 > 1.  Add wp engine website `production environment`
 >
@@ -42,8 +35,6 @@ Following is the list of tasks to be performed on WP Engine.
 > 7.  Add admin user for Client's use
 >
 > 8.  Copy `development environment` to both `staging` and `production environments`
-> <br>
-> <br>
 
 ***From this point onwards developers need to work in development environment only.***
 
