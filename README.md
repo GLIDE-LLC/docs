@@ -8,6 +8,8 @@ This workflow deals with all stages of a project developmnt from start till laun
 
 <br>
 
+![alt text](https://raw.githubusercontent.com/abubakar-me/test/main/images/1.png?token=ALH2M2V3LPPMI3TIASZO6H3BBBEJK)
+
 ## 💯 WPEngine Site
 
 Start off with the correct setup in WP engine website hosting account.
