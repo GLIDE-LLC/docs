@@ -217,7 +217,7 @@ Follow the steps below to start working on done done tickets.
 
 ## Second Release v1.0.1
 
-Required updates fixes are made to the code.
+Required updates and fixes are made to the code.
 
 Let's put up new version of the project on `staging environment` to share with client.
 
@@ -261,28 +261,33 @@ Same process will be followed that was followed for initial demo release.
 
 ## Launch Release v2.0.0
 
-1.  Create release branch from development branch
+When reviews and fixes are done and all done done tickets are cleared, it's time to prepare launch release.
 
-2.  Update version number in theme files and test code
+<br>
 
-3.  Merge release branch into master branch
+- Create `release branch` from `development branch`
 
-4.  Automatic deployment pushes code to development environment on wp engine
+- Update version number in theme files and test code
 
-5.  Tag master branch with new version number
+- Merge `release branch` into `master branch`
 
-6.  Merge release branch back into development branch
+- Automatic deployment pushes code to development environment on wp engine
 
-7.  Review development environment
+- Tag `master branch` with new version number
 
-8.  Copy development environment to staging environment (files only.
+- Merge `release branch` back into `development branch`
 
-9.  Do content and image edits on staging environment (if required.
+- Review `development environment`
 
-10. Share staging environment with reviewers
+- Copy `development environment` to `staging environment` (files only)
 
-11. On approval copy staging environment down to development environment
+- Do content and image edits on `staging environment` (if required)
 
+- Share `staging environment` with reviewers
+
+- On approval copy `staging environment` down to `development environment`
+
+<br>
 <br>
 <br>
 
@@ -290,8 +295,15 @@ Same process will be followed that was followed for initial demo release.
 
 ## Launch
 
-1.  Copy approved staging environment to production environment
+Everything is already reviewed and ready for launch.
 
+<br>
+
+1.  Copy approved `staging environment` to `production environment`
+
+> ###🚀 We are live 
+
+<br>
 <br>
 <br>
 
