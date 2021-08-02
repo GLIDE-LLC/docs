@@ -9,6 +9,7 @@ This workflow deals with all stages of a project developmnt from start till laun
 <br>
 <br>
 <br>
+<br>
 
 ![1](images/1.png)
 
@@ -52,6 +53,7 @@ Following is the list of tasks to be performed on WP Engine.
 <br>
 <br>
 <br>
+<br>
 
 ![2](images/2.png)
 
@@ -78,6 +80,7 @@ If for any reason you can not pull the `development environment`, add a new site
 <br>
 <br>
 <br>
+<br>
 
 ![3](images/3.png)
 
@@ -97,6 +100,7 @@ Use [Github Desktop](https://github.com/) for easy GUI based git workflow.
 
 > ✔️Use latest version of [Glide Base Theme](https://github.com/) from Github
 
+<br>
 <br>
 <br>
 <br>
@@ -128,6 +132,7 @@ Use [Glide Design](https://github.com/) github account and user for setting up r
 <br>
 <br>
 <br>
+<br>
 
 ![5](images/5.png)
 
@@ -147,6 +152,7 @@ Documentation on how Glide Design uses various branch types for different purpos
 
 > ✔️ Make sure to follow the [Glide Nomenclature](https://github.com/) for Github branches.
 
+<br>
 <br>
 <br>
 <br>
@@ -190,6 +196,7 @@ Let's put up the demo website for client and release our first theme version.
 <br>
 <br>
 <br>
+<br>
 
 ![7](images/7.png)
 
@@ -209,6 +216,7 @@ Follow the steps below to start working on done done tickets.
 
 - Make the required updates and fixes from done done tickets
 
+<br>
 <br>
 <br>
 <br>
@@ -256,6 +264,7 @@ Same process will be followed that was followed for initial demo release.
 <br>
 <br>
 <br>
+<br>
 
 ![9](images/9.png)
 
@@ -290,6 +299,7 @@ When reviews and fixes are done and all done done tickets are cleared, it's time
 <br>
 <br>
 <br>
+<br>
 
 ![10](images/10.png)
 
@@ -299,10 +309,13 @@ Everything is already reviewed and ready for launch.
 
 <br>
 
-1.  Copy approved `staging environment` to `production environment`
+- Copy approved `staging environment` to `production environment`
 
-> ###🚀 We are live 
+<br>
 
+### 🚀 We are live
+
+<br>
 <br>
 <br>
 <br>
@@ -311,18 +324,34 @@ Everything is already reviewed and ready for launch.
 
 ## Support
 
-1.  Copy production environment to staging environment
+Months have passed and client came to Glide support to get some changes made on his website.
 
-2.  Copy staging environment to development environment
+Follow the steps below to start working on support tickets.
 
-3.  Create developer branch from development branch
+<br>
 
-4.  Pull latest version of database to Local WP (if required.
+- Copy `production environment` to `staging environment`
 
-5.  Pull latest version of uploads folder to Local WP (if required.
+- Copy `staging environment` to `development environment`
 
-6.  Merge developer branches back into development branch
+- You can skip the previous step if client has not made any file changes.
 
+- Create `developer branch` from `development branch`
+
+- Pull latest version of database to Local WP (if required)
+
+- Pull latest version of uploads folder to Local WP (if required)
+
+- Make the required updates and fixes from support tickets
+
+- Create pull request for lead developer when you are done with edits
+
+- Lead developer reviews the code 
+
+- Merge `developer branch` back into `development branch`
+
+<br>
+<br>
 <br>
 <br>
 
@@ -330,26 +359,40 @@ Everything is already reviewed and ready for launch.
 
 ## Support Release v2.0.1
 
-1.  Create release branch from development branch
+When ready to share the updates with client, follow these steps.
 
-2.  Update version number in theme files and test code
+<br>
 
-3.  Merge release branch into master branch
+- Create `release branch` from `development branch`
 
-4.  Automatic deployment pushes code to development environment on wp engine
+- Update version number in theme files and test code
 
-5.  Tag master branch with new version number
+- Merge `release branch` into `master branch`
 
-6.  Merge release branch back into development branch
+- Automatic deployment pushes code to development environment on wp engine
 
-7.  Review development environment
+- Tag `master branch` with new version number
 
-8.  Copy development environment to staging environment (files only.
+- Merge `release branch` back into `development branch`
 
-9.  Do content and image edits on staging environment (if required.
+- Review `development environment`
 
-10. Share staging environment with reviewers
+- Copy `development environment` to `staging environment` (files only)
 
-11. On approval copy staging environment down to development environment
+- Do content and image edits on `staging environment` (if required)
 
-12. Copy approved staging environment to production environment
+- Share `staging environment` with client
+
+- On approval copy `staging environment` down to `development environment`
+
+- Copy approved `staging environment` to `production environment` (files only)
+
+- Do content and image edits on `staging environment` (if required)
+
+- Review `production environment` and update client.
+
+<br>
+<br>
+<br>
+<br>
+
