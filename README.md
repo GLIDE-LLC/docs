@@ -1,7 +1,8 @@
 <br>
 
-![Glide Design](images/glide.png)
+<center>![Glide Design](images/glide.png)<center>
 
+<br>
 <br>
 
 # Development Workflow
