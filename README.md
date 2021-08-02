@@ -1,5 +1,9 @@
 <br>
 
+![Glide Design](images/glide.png)
+
+<br>
+
 # Development Workflow
 
 Complete project development workflow for **version control** of Glide projects.
@@ -396,5 +400,10 @@ When ready to share the updates with client, follow these steps.
 <br>
 <br>
 
+✔️ Its critical that all developers on all teams follow this workflow to ensure proper version control along with effective collaboration on code.
+
 Happy Coding!
+
+**Prepared by:**
+Muhammad AbuBakar
 
