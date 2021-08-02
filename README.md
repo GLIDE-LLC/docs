@@ -36,13 +36,56 @@ Following is the list of tasks to be performed on WP Engine.
 >
 > 8.  Copy `development environment` to both `staging` and `production environments`
 
+
+
+> 1.  Add wp engine website `production environment`
+> 1.  Add its `staging environment`
+> 2.  Add its `development environment`
+> 3.  Add one sftp user to each of these environments
+> 4.  Open wordpress admin of `development environment`
+> 5.  Update site title and tagline with project name
+> 6.  Add admin user for Glide's use
+> 7.  Add admin user for Client's use
+> 8.  Copy `development environment` to both `staging` and `production environments`
+
+
+1.  Add wp engine website `production environment`
+1.  Add its `staging environment`
+2.  Add its `development environment`
+3.  Add one sftp user to each of these environments
+4.  Open wordpress admin of `development environment`
+5.  Update site title and tagline with project name
+6.  Add admin user for Glide's use
+7.  Add admin user for Client's use
+8.  Copy `development environment` to both `staging` and `production environments`
+
+
+1.  Add wp engine website `production environment`
+
+1.  Add its `staging environment`
+
+2.  Add its `development environment`
+
+3.  Add one sftp user to each of these environments
+
+4.  Open wordpress admin of `development environment`
+
+5.  Update site title and tagline with project name
+
+6.  Add admin user for Glide's use
+
+7.  Add admin user for Client's use
+
+8.  Copy `development environment` to both `staging` and `production environments`
+
+
 ***From this point onwards developers need to work in development environment only.***
 
 More information on purpose of each WP Engine environment and how to use them can be found here in [WP Engine Environments](https://github.com/) document.
 
----
+
 ## Local Site
----
+
 
 10. Open Local WP
 
