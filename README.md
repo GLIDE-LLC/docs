@@ -8,51 +8,54 @@ This workflow deals with all stages of a project developmnt from start till laun
 
 <br>
 <br>
+<br>
 
 ![1](images/1.png)
 
-## 💯 WPEngine Site
+## 1️⃣ - WPEngine Site
 
 Start off with the correct setup in WP engine website hosting account.
 
 Guidelines on how to name these environments and their respective users is available here in [Glide Nomenclature](https://github.com/) document.
 
-Make sure to follow the nomenclature guidelines in order to ensure same naming scheme across all projects and environments.
-
-Following is the list of tasks to be performed on WP Engine.
+> ✔️ Make sure to follow the nomenclature guidelines in order to ensure same naming scheme across all projects and environments.
 
 <br>
 
-1.  Add wp engine website `production environment`
+Following is the list of tasks to be performed on WP Engine.
 
-2.  Add its `staging environment`
 
-3.  Add its `development environment`
+-  Add wp engine website `production environment`
 
-4.  Add one sftp user to each of these environments
+-  Add its `staging environment`
 
-5.  Open wordpress admin of `development environment`
+-  Add its `development environment`
 
-6.  Update site title and tagline with project name
+-  Add one sftp user to each of these environments
 
-7.  Add admin user for Glide's use
+-  Open wordpress admin of `development environment`
 
-8.  Add admin user for Client's use
+-  Update site title and tagline with project name
 
-9.  Copy `development environment` to both `staging` and `production environments`
+-  Add admin user for Glide's use
+
+-  Add admin user for Client's use
+
+-  Copy `development environment` to both `staging` and `production environments`
 
 <br>
 
 ***From this point onwards developers need to work in development environment only.***
 
-More information on purpose of each WP Engine environment and how to use them can be found here in [WP Engine Environments](https://github.com/) document.
+> ✔️ More information on purpose of each environment and how to use them is here in [WP Engine Environments](https://github.com/) document.
 
+<br>
 <br>
 <br>
 
 ![2](images/2.png)
 
-## 🌋 Local WP Site
+## 2️⃣ - Local WP Site
 
 Use [Local WP](https://github.com/) for setting up local WordPress environment.
 
@@ -60,70 +63,95 @@ Local WP is supported by WP Engine and it fully integrates with their service.
 
 <br>
 
-1. Open Local WP
+- Open Local WP
 
-2. Connect Local WP with WP Engine Account
+- Connect Local WP with WP Engine Account
 
-3. Pull `development environment` of your project into Local WP
+- Pull `development environment` of your project into Local WP
 
 <br>
 
 If for any reason you can not pull the `development environment`, add a new site to Local WP.
 
-Make sure to follow the Glide [naming scheme](https://github.com/) for this purpose.
+> ✔️ Make sure to follow the [Glide Nomenclature](https://github.com/) for Local WP.
 
+<br>
 <br>
 <br>
 
 ![3](images/3.png)
 
-## 💯 Local Repository
+## 3️⃣ - Local Repository
 
 <br>
 
-1. Open Local WP project folder and convert it into a local repository
+- Open Local WP project folder and convert it into a local repository
 
-2. Add .gitignore file
+- Add `.gitignore` file
 
-3. Add base theme to themes folder
+- Add base theme to WordPress themes folder
 
+<br>
+
+> ✔️Use latest version of [Glide Base Theme](https://github.com/) from Github
+
+<br>
 <br>
 <br>
 
 ![4](images/4.png)
 
-## Github Repository
+## 4️⃣ - Github Repository
 
-1. Create repository in github
+Use [Glide Design](https://github.com/) github account and user for setting up remote repository.
 
-2. Connect local and github repositories
+<br>
 
-3. Add action in github for continuous deployment
+- Create repository in Github
 
-4. Connect WP Engine development environment and github
+- Connect local and Github repositories
 
-5. Update base theme with project name
+- Add action in Github for continuous deployment
 
-6. Stage, commit and push the first change in master branch
+- Connect WP Engine development environment and Github
 
+- Update base theme with project name
+
+- Stage, commit and push the first change in master branch
+
+<br>
+
+> ✔️ Make sure to follow the [Glide Nomenclature](https://github.com/) for Github repository.
+
+<br>
 <br>
 <br>
 
 ![5](images/5.png)
 
 ## Github Branches
----
 
-1. Create development branch from master branch
+Documentation on how Glide Design uses various branch types for different purposes is here in [Github Branches](https://github.com/) document.
 
-2. Create developer branches from development branch
+<br>
 
-3. Merge developer branches back into developmeant branch
+- Create development branch from master branch
 
-4. Create release branch from development branch
+- Create developer branches from development branch
 
-5. Update version number in theme files and test code
+- Merge developer branches back into developmeant branch
 
+- Create release branch from development branch
+
+- Update version number in theme files and test code
+
+<br>
+
+**From this point onwards multiple developers can work on the same project at same time.**
+
+> ✔️ Make sure to follow the [Glide Nomenclature](https://github.com/) for Github branches.
+
+<br>
 <br>
 <br>
 
@@ -131,22 +159,23 @@ Make sure to follow the Glide [naming scheme](https://github.com/) for this purp
 
 ## First Release - v1.0.0
 
-1. Merge release branch into master branch
+- Merge release branch into master branch
 
-2. Automatic deployment pushes code to development environment on wp engine
+- Automatic deployment pushes code to development environment on wp engine
 
-3. Tag master branch with new version number
+- Tag master branch with new version number
 
-4. Merge release branch back into development branch
+- Merge release branch back into development branch
 
-5. Push database from Local WP to WP Engine
+- Push database from Local WP to WP Engine
 
-6. Review development environment
+- Review development environment
 
-7. Copy development environment to staging environment
+- Copy development environment to staging environment
 
-8. Share staging environment with reviewers
+- Share staging environment with reviewers
 
+<br>
 <br>
 <br>
 
