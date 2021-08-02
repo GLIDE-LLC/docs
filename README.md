@@ -155,11 +155,15 @@ Documentation on how Glide Design uses various branch types for different purpos
 
 ## First Release - v1.0.0
 
-So the development of the project is complete and its time to show off the hard work. 
+Development of the project is complete and its time to show off the hard work. 
 
 Let's put up the demo website for client and release our first theme version.
 
 <br>
+
+- Create pull request for lead developer
+
+- Lead developer reviews the code
 
 - Merge `developer branches` back into `developmeant branch`
 
@@ -191,14 +195,21 @@ Let's put up the demo website for client and release our first theme version.
 
 ## Reviews & Tickets
 
-1. Create developer branches from development branch
+Staging website is reviewed and tickets are created in done done.  
 
-2. Pull latest version of database (if required.
+Follow the steps below to start working on done done tickets.
 
-3. Pull latest version of uploads folder (if required.
+<br>
 
-4. Merge developer branches back into developmeant branch
+- Create `developer branches` from `development branch`
 
+- Pull latest version of database (if required)
+
+- Pull latest version of uploads folder (if required)
+
+- Make the required updates and fixes from done done tickets
+
+<br>
 <br>
 <br>
 
@@ -206,28 +217,43 @@ Let's put up the demo website for client and release our first theme version.
 
 ## Second Release v1.0.1
 
-1.  Create release branch from development branch
+Required updates fixes are made to the code.
 
-2.  Update version number in theme files and test code
+Let's put up new version of the project on `staging environment` to share with client.
 
-3.  Merge release branch into master branch
+Same process will be followed that was followed for initial demo release.
 
-4.  Automatic deployment pushes code to development environment on wp engine
+<br>
 
-5.  Tag master branch with new version number
+- Create pull request for lead developer when you are done with edits
 
-6.  Merge release branch back into development branch
+- Lead developer reviews the code
 
-7.  Review development environment
+- Merge `developer branches` back into `developmeant branch`
 
-8.  Copy development environment to staging environment (files only.
+- Create `release branch` from `development branch`
 
-9.  Do content and image edits on staging environment (if required.
+- Update version number in theme files and test code
 
-10. Share staging environment with reviewers
+- Merge `release branch` into `master branch`
 
-11. On approval copy staging environment down to development environment
+- Automatic deployment pushes code to development environment on wp engine
 
+- Tag `master branch` with new version number
+
+- Merge `release branch` back into `development branch`
+
+- Review `development environment`
+
+8.  Copy `development environment` to `staging environment` (files only.
+
+9.  Do content and image edits on `staging environment` (if required.
+
+10. Share `staging environment` with reviewers
+
+11. On approval copy `staging environment` down to `development environment`
+
+<br>
 <br>
 <br>
 
