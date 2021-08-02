@@ -136,7 +136,7 @@ Use [Glide Design](https://github.com/) github account and user for setting up r
 
 ![5](images/5.png)
 
-## Github Branches
+## 5️⃣ - Github Branches
 
 Documentation on how Glide Design uses various branch types for different purposes is here in [Github Branches](https://github.com/) document.
 
@@ -159,7 +159,7 @@ Documentation on how Glide Design uses various branch types for different purpos
 
 ![6](images/6.png)
 
-## First Release - v1.0.0
+## 6️⃣ - First Release - v1.0.0
 
 Development of the project is complete and its time to show off the hard work. 
 
@@ -200,7 +200,7 @@ Let's put up the demo website for client and release our first theme version.
 
 ![7](images/7.png)
 
-## Reviews & Tickets
+## 7️⃣ - Reviews & Tickets
 
 Staging website is reviewed and tickets are created in done done.  
 
@@ -223,7 +223,7 @@ Follow the steps below to start working on done done tickets.
 
 ![8](images/8.png)
 
-## Second Release v1.0.1
+## 8️⃣ - Second Release v1.0.1
 
 Required updates and fixes are made to the code.
 
@@ -268,7 +268,7 @@ Same process will be followed that was followed for initial demo release.
 
 ![9](images/9.png)
 
-## Launch Release v2.0.0
+## 9️⃣ - Launch Release v2.0.0
 
 When reviews and fixes are done and all done done tickets are cleared, it's time to prepare launch release.
 
@@ -303,7 +303,7 @@ When reviews and fixes are done and all done done tickets are cleared, it's time
 
 ![10](images/10.png)
 
-## Launch
+## 🔟 Launch
 
 Everything is already reviewed and ready for launch.
 
@@ -322,7 +322,7 @@ Everything is already reviewed and ready for launch.
 
 ![11](images/11.png)
 
-## Support
+## 1️⃣ - Support
 
 Months have passed and client came to Glide support to get some changes made on his website.
 
@@ -357,7 +357,7 @@ Follow the steps below to start working on support tickets.
 
 ![12](images/12.png)
 
-## Support Release v2.0.1
+## 2️⃣ - Support Release v2.0.1
 
 When ready to share the updates with client, follow these steps.
 
