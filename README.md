@@ -1,7 +1,9 @@
 <br>
+<br>
 
 ![Glide Design](images/glide.png)
 
+<br>
 <br>
 <br>
 
