@@ -45,7 +45,7 @@ Following is the list of tasks to be performed on WP Engine.
 
 <br>
 
-***From this point onwards developers need to work in development environment only.***
+**From this point onwards developers need to work in development environment only.**
 
 > ✔️ More information on purpose of each environment and how to use them is here in [WP Engine Environments](https://github.com/) document.
 
@@ -83,6 +83,8 @@ If for any reason you can not pull the `development environment`, add a new site
 
 ## 3️⃣ - Local Repository
 
+Use [Github Desktop](https://github.com/) for easy GUI based git workflow.
+
 <br>
 
 - Open Local WP project folder and convert it into a local repository
@@ -117,7 +119,7 @@ Use [Glide Design](https://github.com/) github account and user for setting up r
 
 - Update base theme with project name
 
-- Stage, commit and push the first change in master branch
+- Stage, commit and push the first change in `master branch`
 
 <br>
 
@@ -135,15 +137,9 @@ Documentation on how Glide Design uses various branch types for different purpos
 
 <br>
 
-- Create development branch from master branch
+- Create `development branch` from `master branch`
 
-- Create developer branches from development branch
-
-- Merge developer branches back into developmeant branch
-
-- Create release branch from development branch
-
-- Update version number in theme files and test code
+- Create `developer branches` from `development branch`
 
 <br>
 
@@ -159,21 +155,33 @@ Documentation on how Glide Design uses various branch types for different purpos
 
 ## First Release - v1.0.0
 
-- Merge release branch into master branch
+So the development of the project is complete and its time to show off the hard work. 
 
-- Automatic deployment pushes code to development environment on wp engine
+Let's put up the demo website for client and release our first theme version.
 
-- Tag master branch with new version number
+<br>
 
-- Merge release branch back into development branch
+- Merge `developer branches` back into `developmeant branch`
+
+- Create `release branch` from `development branch`
+
+- Update version number in theme files and test code
+
+- Merge `release branch` into `master branch`
+
+- Automatic deployment pushes code to development environment on WP Engine
+
+- Tag `master branch` with new version number
+
+- Merge `release branch` back into `development branch`
 
 - Push database from Local WP to WP Engine
 
-- Review development environment
+- Review `development environment`
 
-- Copy development environment to staging environment
+- Copy `development environment` to `staging environment`
 
-- Share staging environment with reviewers
+- Share `staging environment` with reviewers
 
 <br>
 <br>
