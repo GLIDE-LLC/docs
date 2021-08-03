@@ -188,9 +188,13 @@ Follow these guidelines for naming WordPress accounts for different uses.
 
 ### 📙 Admin User for Glide's use
 
-- username will always be `glideadmin`
+- Username will be `glideadmin`
 
-- email will always be `support@glidedesign.com`
+- Email will be `support@glidedesign.com`
+
+- First name will be `Glide`
+
+- First name will be `Admin`
 
 <br>
 <br>
@@ -220,9 +224,13 @@ Follow these guidelines for naming WordPress accounts for different uses.
 
 ### 📙 Admin User for Client's use
 
-- username will always be `clientadmin`
+- Username will be `clientadmin`
 
-- email will always be main point of contact for client `hello@clientwebsite.com`
+- Email will be main point of contact for client `hello@clientwebsite.com`
+
+- First name will be `Client`
+
+- First name will be `Admin`
 
 - If client needs further admin users, he can create those by logging into this user or we can assist them.
 
@@ -230,7 +238,7 @@ Follow these guidelines for naming WordPress accounts for different uses.
 
 #### 👉 For Example
 
-- `client admin`
+- `clientadmin`
 
 > **Allowed**
 > 
