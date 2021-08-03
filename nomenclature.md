@@ -320,13 +320,11 @@ Each project will have its dedicated repository and it will be properly versione
 
 - It will be in lowercase and will have dashes instead of spaces
 
-- If project name is `Great Client` repository will be named as `great-client`
-
 <br>
 
 #### 👉 For Example
 
-- `great-client`
+- If project name is `Great Client` repository will be named as `great-client`
 
 <br>
 
@@ -416,7 +414,7 @@ Five different branch types will be used for git workflow.
 
 - Developer branches will be named as a combination of two words 
 
-- First word will be initials of developer
+- First word will be first name of developer
 
 - Second word will be date on which he is creating the branch
 
@@ -426,31 +424,32 @@ Five different branch types will be used for git workflow.
 
 - Date will help us in to quickly identify how latest or old the branch is
 
+- Date will always be in day(number)-month(initials) format for easy scanning and identification
+
 - If we have to create multiple developer branches in same day, we will add roman numbering to end of it for easy identification 
 
 <br>
 
 #### 👉 For Example
 
-- `tm-03jul21`
-- `tm-15aug21`
-- `tm-03sep21i`
-- `tm-03sep21ii`
+- `travis-03jul`
+- `travis-15aug`
+- `travis-15augi`
 
 <br>
 
 > **Allowed**
 > 
-> ✔️ `tm-03jul21`
+> ✔️ `travis-03jul`
 >  
 >  <br>
 > 
 > **Not Allowed**
 > 
-> ❌ `travis-03jul21` <br>
-> ❌ `tm-03jul` <br>
-> ❌ `tm-03-06-21` <br>
-> ❌ `tm-03-06`
+> ❌ `tm-03jul21` <br>
+> ❌ `travis-03jul2021` <br>
+> ❌ `mcashan-03-06-21` <br>
+> ❌ `travis-03-06`
 
 <br>
 <br>
@@ -494,37 +493,254 @@ Five different branch types will be used for git workflow.
 
 #### 📘 Hotfix Branches
 
-- Hotfix branches will be named as "hf-03jul21" where hf stands for hotfix and the date helps us quickly see how old the branch is.
-if we have to create multiple hotfix branches in same day, we will add roman numbering to end of it for easy identification for example "hf-03jul21" , "hf-03jul21i" and "hf-03jul21ii"
+- Hotfix branches will be named as a combination of two words 
+
+- First word will be `hotfix`
+
+- Second word will be date on which branch is created
+
+- Dash will be used as a separator
+
+- Date will help us in to quickly identify how latest or old the branch is
+
+- Date will always be in day(number)-month(initials) format for easy scanning and identification
+
+- If we have to create multiple hotfix branches in same day, we will add roman numbering to end of it for easy identification 
+
+<br>
+
+#### 👉 For Example
+
+- `hotfix-03jul`
+- `hotfix-15aug`
+- `hotfix-15augi`
+
+<br>
+
+> **Allowed**
+> 
+> ✔️ `hotfix-03jul`
+>  
+>  <br>
+> 
+> **Not Allowed**
+> 
+> ❌ `hf-03jul` <br>
+> ❌ `fix-03jul` <br>
+> ❌ `hot-03-06-21` <br>
+> ❌ `hotfix-03-06`
+
+<br>
+<br>
+<br>
+<br>
+
+![4](images/4.png)
+
+## 1️⃣ - Local WP
+
+Follow these guidelines for naming Local WP install.
+
+<br>
+
+### 📙 Local Environment
+
+If you fetch the website using Local WP built in pull feature, it will automatically use same details as on WP Engine development environment.
+
+If you are adding new site to Local WP follow these guidelines.
+
+- Local WP site name will be same as project name 
+
+- Local WP site domain will be same as project name 
+
+- It will be in lowercase lowercase and will have dashes instead of spaces
+
+- Local WP site path will be same as project name 
+
+- It will be in lowercase lowercase and will have dashes instead of spaces
+
+<br>
+
+#### 👉 For Example
+
+- If project name is `Great Client` Local WP site name will become `Great Client`
+- If project name is `Great Client` Local WP site domain will become `great-client.local`
+- If project name is `Great Client` Local WP site path will become `local-sites/great-client`
+
+<br>
+
+> **Allowed**
+> 
+> ✔️ `Great Client`
+> ✔️ `great-client`
+>  
+>  <br>
+> 
+> **Not Allowed**
+> 
+> ❌ `GreatClient` <br>
+> ❌ `greatclient` <br>
+> ❌ `client` <br>
+> ❌ `great`
+
+<br>
+<br>
+<br>
+
+### 📙 WordPress Accounts
+
+No need to create WordPress admin accounts in `local environment`. These will be fetched from `development environment`
+
+<br>
+<br>
+<br>
+<br>
+
+![5](images/5.png)
+
+## 1️⃣ - WordPress Theme
+
+Follow these guidelines for naming WordPress Theme and its components.
+
+<br>
+
+### 📙 Theme Name
+
+- Theme Name will be same as project name
+
+<br>
+
+#### 👉 For Example
+
+- If project name is `Great Client` Local WP site name will become `Great Client`
+
+<br>
+
+> **Allowed**
+> 
+> ✔️ `Great Client`
+>  
+>  <br>
+> 
+> **Not Allowed**
+> 
+> ❌ `GreatClient` <br>
+> ❌ `greatclient` <br>
+> ❌ `client` <br>
+> ❌ `glidetheme`
+
+<br>
+<br>
+<br>
+
+### 📙 Theme Folder
+
+- Theme folder will be same as project name 
+
+- It will be in lowercase lowercase and will have dashes instead of spaces
+
+#### 👉 For Example
+
+- If project name is `Great Client` theme folder name will become `great-client`
+
+<br>
+
+> **Allowed**
+> 
+> ✔️ `great-client`
+>  
+>  <br>
+> 
+> **Not Allowed**
+> 
+> ❌ `GreatClient` <br>
+> ❌ `greatclient` <br>
+> ❌ `client-great` <br>
+> ❌ `glidetheme`
+
+
+<br>
+<br>
+<br>
+
+### 📙 Function's Prefix
+
+- Function's prefix will be derived from project name 
+
+- If project name is long, take first or second word from project name whichever makes sense and is unique
+
+- It will be in lowercase and it will be separated with underscore
+
+- Add an underscore at end also to separate it from actual function name
+
+- Never use dash for separation
+
+#### 👉 For Example
+
+- If project name is `Great Client` function's prefix will become `great_client_`
+
+<br>
+
+> **Allowed**
+>
+> ✔️ `great_client_`
+> ✔️ `great_`
+> ✔️ `client_`
+>  
+>  <br>
+> 
+> **Not Allowed**
+> 
+> ❌ `GreatClient_` <br>
+> ❌ `great-client_` <br>
+> ❌ `client-great_` <br>
+> ❌ `glidefunction_`
+
+
+<br>
+<br>
+<br>
+
+### 📙 Text Domain
+
+- Text domain will be derived from project name
+
+- If project name is long, take first or second word from project name whichever makes sense and is unique
+
+- It will be in lowercase and it will be separated with underscore
+
+- Add `_td` to end of it for easy recognition and separating it from general functions prefix
+
+- Add an underscore at end also to separate it from actual function name
+
+- Never use dash for separation
+
+#### 👉 For Example
+
+- If project name is `Great Client` text domain will become `great_client_td`
+
+<br>
+
+> **Allowed**
+>
+> ✔️ `great_client_td`
+> ✔️ `great_td`
+> ✔️ `client_td`
+>  
+>  <br>
+> 
+> **Not Allowed**
+> 
+> ❌ `GreatClient_td` <br>
+> ❌ `great-client_td` <br>
+> ❌ `great_client_textdomain` <br>
+> ❌ `text_domain`
+
+<br>
+<br>
+<br>
+<br>
 
 
 
----
-## Local WP
----
 
-## Local Environment
-
-- Local environment url will be same as project name except it will be in lowercase and will have dashes instead of spaces.
-
-- If project name is Great Client Local environment url will be named as great-client.local
-
-## Admin Users
-
-- Same admin users as live will be fetched into local install on first sync
-
----
-## WordPress Theme
----
-
-## Theme Name
-
-- Theme Name will be same as project name.
-
-- If project name is Great Client theme name will be Great Client.
-
-## Theme Folder
-
-- Theme folder will be same as project name except it will be in lowercase and will have dashes instead of spaces.
-
-- If project name is Great Client theme folder will be great-client
