@@ -25,7 +25,7 @@ This nomenclature deals with all pieces of Glide's WordPress projects from local
 
 Follow these guidelines for naming WP Engine environments.
 
-> ✔️ Guidelines on how to use different WP Engine environments in development Workflow is available here in [WP Engine Environments](https://github.com/) document.
+> Guidelines on how to use different WP Engine environments in development Workflow is available here in [WP Engine Environments Workflow](https://github.com/) document.
 
 <br>
 
@@ -87,9 +87,9 @@ Follow these guidelines for naming WP Engine environments.
 
 #### 👉 For Example
 
-- `glidedesignprd.wpengine.com` will be the url of `production environment`
-- `glidedesignstg.wpengine.com` will be the url of `staging environment`
-- `glidedesigndev.wpengine.com` will be the url of `development environment`
+- `glidedesignprd.wpengine.com` will become url of `production environment`
+- `glidedesignstg.wpengine.com` will become url of `staging environment`
+- `glidedesigndev.wpengine.com` will become url of `development environment`
 
 <br>
 
@@ -272,7 +272,7 @@ Following are guidelines on how to setup and name those team spcific admin accou
 
 - There will be no dash in these two words to maintain similar naming scheme with other username types
 
-- Email will be team specific email `team@glidedesign.com`
+- Email will be team specific email `teamname@glidedesign.com`
 
 - First name will be `Glide`
 
@@ -348,7 +348,7 @@ Each project will have its dedicated repository and it will be properly versione
 
 Five different branch types will be used for git workflow. 
 
-> ✔️ Guidelines on how to use different branch types in development Workflow is available here in [Github Branches](https://github.com/) document.
+> Guidelines on how to use different branch types in development Workflow is available here in [Github Branches Workflow](https://github.com/) document.
 
 <br>
 
@@ -466,6 +466,8 @@ Five different branch types will be used for git workflow.
 
 - Dash will be used as a separator
 
+- Version number will be in `1.0.0` format
+
 <br>
 
 #### 👉 For Example
@@ -541,13 +543,13 @@ Five different branch types will be used for git workflow.
 
 Follow these guidelines for naming Local WP install.
 
+If you fetch the website using Local WP built in pull feature, it will automatically use same details as on WP Engine `development environment`.
+
+But if you are adding the Local WP site manually you need to follow the guidelines given below.
+
 <br>
 
 ### 📙 Local Environment
-
-If you fetch the website using Local WP built in pull feature, it will automatically use same details as on WP Engine development environment.
-
-If you are adding new site to Local WP follow these guidelines.
 
 - Local WP site name will be same as project name 
 
@@ -563,9 +565,9 @@ If you are adding new site to Local WP follow these guidelines.
 
 #### 👉 For Example
 
-- If project name is `Great Client` Local WP site name will become `Great Client`
-- If project name is `Great Client` Local WP site domain will become `great-client.local`
-- If project name is `Great Client` Local WP site path will become `local-sites/great-client`
+- For project name `Great Client` Local WP site name will become `Great Client`
+- For project name `Great Client` Local WP site domain will become `great-client.local`
+- For project name `Great Client` Local WP site path will become `local-sites/great-client`
 
 <br>
 
@@ -589,7 +591,9 @@ If you are adding new site to Local WP follow these guidelines.
 
 ### 📙 WordPress Accounts
 
-No need to create WordPress admin accounts in `local environment`. These will be fetched from `development environment`
+No need to create WordPress admin accounts in `local environment`. 
+
+These will be fetched from `development environment` when you fetch the webiste or when you replace the local database.
 
 <br>
 <br>
