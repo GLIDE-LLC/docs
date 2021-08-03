@@ -355,7 +355,7 @@ Five different branch types will be used for git workflow.
 <br>
 <br>
 
-#### Master Branch
+####  📔 📒 Master Branch
 
 - Main branch will be named `master`
 
