@@ -27,7 +27,7 @@ Follow these guidelines for naming WP Engine environments.
 
 <br>
 
-### ▶️ Site Name
+### 📑 Site Name
 
 - Project Name will be used here with proper spaces.
 
