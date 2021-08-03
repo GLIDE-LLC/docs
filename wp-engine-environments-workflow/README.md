@@ -2,7 +2,7 @@
 <br>
 <br>
 
-![Glide Design](assets/images/glide.png)
+![Glide Design](../assets/images/glide.png)
 
 <br>
 <br>
@@ -19,7 +19,7 @@ This workflow deals with all stages of a project developmnt from start till laun
 <br>
 <br>
 
-![1](assets/images/1.png)
+![1](../assets/images/1.png)
 
 ## 1️⃣ - WPEngine Site
 
@@ -65,7 +65,7 @@ Following is the list of tasks to be performed on WP Engine.
 <br>
 <br>
 
-![2](assets/images/2.png)
+![2](../assets/images/2.png)
 
 ## 2️⃣ - Local WP Site
 
@@ -92,7 +92,7 @@ If for any reason you can not pull the `development environment`, add a new site
 <br>
 <br>
 
-![3](assets/images/3.png)
+![3](../assets/images/3.png)
 
 ## 3️⃣ - Local Repository
 
@@ -115,7 +115,7 @@ Use [Github Desktop](https://github.com/) for easy GUI based git workflow.
 <br>
 <br>
 
-![4](assets/images/4.png)
+![4](../assets/images/4.png)
 
 ## 4️⃣ - Github Repository
 
@@ -144,7 +144,7 @@ Use [Glide Design](https://github.com/) github account and user for setting up r
 <br>
 <br>
 
-![5](assets/images/5.png)
+![5](../assets/images/5.png)
 
 ## 5️⃣ - Github Branches
 
@@ -167,7 +167,7 @@ Documentation on how Glide Design uses various branch types for different purpos
 <br>
 <br>
 
-![6](assets/images/6.png)
+![6](../assets/images/6.png)
 
 ## 6️⃣ - First Release - `1.0.0`
 
@@ -208,7 +208,7 @@ Let's put up the demo website for client and release our first theme version.
 <br>
 <br>
 
-![7](assets/images/7.png)
+![7](../assets/images/7.png)
 
 ## 7️⃣ - Reviews & Tickets
 
@@ -231,7 +231,7 @@ Follow the steps below to start working on done done tickets.
 <br>
 <br>
 
-![8](assets/images/8.png)
+![8](../assets/images/8.png)
 
 ## 8️⃣ - Second Release `1.0.1`
 
@@ -276,7 +276,7 @@ Same process will be followed that was followed for initial demo release.
 <br>
 <br>
 
-![9](assets/images/9.png)
+![9](../assets/images/9.png)
 
 ## 9️⃣ - Launch Release `2.0.0`
 
@@ -311,7 +311,7 @@ When reviews and fixes are done and all done done tickets are cleared, it's time
 <br>
 <br>
 
-![10](assets/images/10.png)
+![10](../assets/images/10.png)
 
 ## 🔟 Launch
 
@@ -330,7 +330,7 @@ Everything is already reviewed and ready for launch.
 <br>
 <br>
 
-![11](assets/images/11.png)
+![11](../assets/images/11.png)
 
 ## 1️⃣ - Support
 
@@ -365,7 +365,7 @@ Follow the steps below to start working on support tickets.
 <br>
 <br>
 
-![12](assets/images/12.png)
+![12](../assets/images/12.png)
 
 ## 2️⃣ - Support Release `2.0.1`
 
