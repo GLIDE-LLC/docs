@@ -32,7 +32,7 @@ Follow these guidelines for naming WP Engine environments.
 
 - Project Name will be used here with proper spaces
 
-- Wp Engine allows 40 characters for this so it will not be an issue to have a proper and nice Site Name
+- WP Engine allows 40 characters for this so it will not be an issue to have a proper and nice Site Name
 
 - Make Sure project name is never more than 3 words, ideally it should be combination of 2 words
 
@@ -63,7 +63,7 @@ Follow these guidelines for naming WP Engine environments.
 
 - Project name will be used here in lowercase and without spaces
 
-- This will be lowercase version of the Site Name
+- This will be lowercase version of the site same
 
 - If site name is longer than 11 characters, try using only first word from the site name
 
@@ -84,11 +84,12 @@ Follow these guidelines for naming WP Engine environments.
 <br>
 
 #### 👉 For Example
-- `glidedesignprd.wpengine.com` will be the url for `production environment`
 
-- `glidedesignstg.wpengine.com` will be the url for `staging environment`
+- `glidedesignprd.wpengine.com` will be the url of `production environment`
 
-- `glidedesigndev.wpengine.com` will be the url for `development environment`
+- `glidedesignstg.wpengine.com` will be the url of `staging environment`
+
+- `glidedesigndev.wpengine.com` will be the url of `development environment`
 
 <br>
 
@@ -163,9 +164,12 @@ Follow these guidelines for naming WP Engine environments.
 <br>
 <br>
 
----
-## WordPress
----
+
+## 1️⃣ - WordPress
+
+Follow these guidelines for naming WordPress accounts for different uses.
+
+<br>
 
 - Add two WordPress admin users to only development environment
 
@@ -179,42 +183,61 @@ Follow these guidelines for naming WP Engine environments.
 
 - These environments will get their users when for first time development environment is copied over to them
 
+<br>
 
+#### 👉 Admin User for Glide's use
 
-
-
-- There will always be two wp admin accounts added to dev environment.
-
-- Which will automatically get copied over to staging and production environment when site will go live for first time.
-
-
-## Admin User for Glide's use
-
-- username will always be glide-sftp
-
-### Not allowed
-- glidedesign
-- glide-admin
-- gadmin
-
+- username will always be glideadmin
 - email will always be support@glidedesign.com
 
-## Admin User for Client's Use
+<br>
+
+> **Allowed**
+> 
+> ✔️ `glideadmin`
+>  
+>  <br>
+> 
+> **Not Allowed**
+> 
+> ❌ `glidedesign` <br>
+> ❌ `glide-admin` <br>
+> ❌ `gadmin` <br>
+> ❌ `glidedev` 
+> 
+
+<br>
+<br>
+
+#### 👉 Admin User for Client's Use
 
 - username will always be clientadmin
 
-### Not allowed
-- clientname
-- client-admin
-- cadmin
-
-- email will always be their main point of contact.
+- email will always be main point of contact for client hello@clientwebsite.com
 
 - If client needs further admin users, he can create those by logging into this user or we can assist them.
 
----
-## GitHub
----
+<br>
+
+> **Allowed**
+> 
+> ✔️ `clientadmin`
+>  
+>  <br>
+> 
+> **Not Allowed**
+> 
+> ❌ `clientname` <br>
+> ❌ `client-admin` <br>
+> ❌ `cadmin` <br>
+> ❌ `client-name` 
+
+<br>
+<br>
+<br>
+<br>
+
+## 1️⃣ - Github
 
 - Each project will have its dedicated repository and it will be properly versioned and tagged.
 
