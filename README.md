@@ -58,7 +58,7 @@ Following is the list of tasks to be performed on WP Engine.
 
 **From this point onwards developers need to work in development environment only.**
 
-> ✔️ Information on purpose of each environment and how to use it, is in [WP Engine Environments](https://github.com/) document.
+> ✔️ Information on purpose of each environment and how to use it, is in [WP Engine Environments Workflow](https://github.com/) document.
 
 <br>
 <br>
@@ -148,7 +148,7 @@ Use [Glide Design](https://github.com/) github account and user for setting up r
 
 ## 5️⃣ - Github Branches
 
-Documentation on how Glide Design uses various branch types for different purposes is here in [Github Branches](https://github.com/) document.
+Documentation on how Glide Design uses various branch types for different purposes is here in [Github Branches Workflow](https://github.com/) document.
 
 <br>
 
@@ -414,7 +414,7 @@ And in another scenario if you have not copied `production environment` complete
 
 <br>
 
-Always follow the simple rule explained here in [WP Engine Environments](https://github.com/) document
+Always follow the simple rule explained here in [WP Engine Environments Workflow](https://github.com/) document.
 
 🔺 Code moves up 🔻 Data moves down
 
