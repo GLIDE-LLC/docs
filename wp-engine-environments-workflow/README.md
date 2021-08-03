@@ -45,7 +45,7 @@ This document deals with all rules that we have to be followed when working with
 
 ![2](../assets/images/2.png)
 
-## 1️⃣ - Staging Environment
+## 2️⃣ - Staging Environment
 
 <br>
 
@@ -70,7 +70,7 @@ This document deals with all rules that we have to be followed when working with
 
 ![3](../assets/images/3.png)
 
-## 2️⃣ - Development Environment
+## 3️⃣ - Development Environment
 
 <br>
 
@@ -89,9 +89,9 @@ This document deals with all rules that we have to be followed when working with
 <br>
 <br>
 
-![3](../assets/images/3.png)
+![4](../assets/images/4.png)
 
-## 2️⃣ - Golden Rule - 🔺 Code moves up 🔻 Data moves down
+## 4️⃣ - Golden Rule - 🔺 Code Moves Up 🔻 Data Moves Down
 
 <br>
 
