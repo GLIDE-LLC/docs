@@ -101,9 +101,11 @@ The `middle` layer is `staging environment` that serves as bridge between other 
 The `bottom` layer is `development environment` where we are developing the website.
 
 <br>
+<br>
 
 ![Golden Rule](../assets/images/golden-rule.png)
 
+<br>
 <br>
 
 The code will always move upwards from `development` to `staging` to `production environment`.
