@@ -385,9 +385,9 @@ Five different branch types will be used for git workflow.
 
 #### Development Branch
 
-<br>
-
 - Active development branch will be named `development`
+
+<br>
 
 #### 👉 For Example
 
