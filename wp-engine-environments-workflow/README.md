@@ -52,15 +52,15 @@ This document also deals with all rules that have to be followed when working wi
 
 <br>
 
-- Staging environment will serve as bridge between development environment and production environment
+- `Staging environment` will serve as bridge between `development environment` and `production environment`
 
-- Whenever we need to do new set of updates we can copy data from production environment
+- Whenever we need to do new set of updates we can copy data from `production environment`
 
-- When updates are done, Code will be pushed from development environment into staging environment
+- When updates are done, Code will be pushed from `development environment` to `staging environment`
 
-- When this is ready to go live we can push code to production environment
+- When this is ready to go live we can push code to `production environment`
 
-- Staging data will never get pushed upwards to production environment, only if we are going live for first time
+- Staging data will never get pushed upwards to `production environment`, only if we are going live for first time
 
 <br>
 <br>
@@ -77,11 +77,11 @@ This document also deals with all rules that have to be followed when working wi
 
 <br>
 
-- Whenever we need to do new set of updates we can copy data from staging environment
+- Whenever we need to do new set of updates we can copy data from `staging environment`
 
-- When this is ready we can push code to staging environment.
+- When this is ready we can push code to `staging environment`
 
-- Development data will never get pushed upwards to staging environment, only if we are going live for first time
+- Development data will never get pushed upwards to `staging environment`, only if we are going live for first time
 
 <br>
 <br>
@@ -94,17 +94,21 @@ This document also deals with all rules that have to be followed when working wi
 
 <br>
 
-The "top" layer is production environment that is live website for public view.
+The `top` layer is `production environment` that is live website for public view.
 
-The "middle" layer is staging environment that serves as bridge between other two.
+The `middle` layer is `staging environment` that serves as bridge between other two.
 
-The "bottom" layer is development environment where we are developing the website.
+The `bottom` layer is `development environment` where we are developing the website.
 
 <br>
 
-The code will always move upwards from development to staging to production environment.
+![Golden Rule](../assets/images/golden-rule.png)
 
-The database will always move downwards from production to staging to development environment.
+<br>
+
+The code will always move upwards from `development` to `staging` to `production environment`.
+
+The database will always move downwards from `production` to `staging` to `development environment`.
 
 Staging environment will always serve as bridge between the other two environments and all reviewing and testing will be done on staging environmnt.
 
