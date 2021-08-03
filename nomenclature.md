@@ -573,7 +573,7 @@ But if you are adding the Local WP site manually you need to follow the guidelin
 
 > **Allowed**
 > 
-> ✔️ `Great Client`
+> ✔️ `Great Client` <br>
 > ✔️ `great-client`
 >  
 >  <br>
@@ -690,8 +690,8 @@ Follow these guidelines for naming WordPress Theme and its components.
 
 > **Allowed**
 >
-> ✔️ `great_client_`
-> ✔️ `great_`
+> ✔️ `great_client_` <br>
+> ✔️ `great_` <br>
 > ✔️ `client_`
 >  
 >  <br>
@@ -731,8 +731,8 @@ Follow these guidelines for naming WordPress Theme and its components.
 
 > **Allowed**
 >
-> ✔️ `great_client_td`
-> ✔️ `great_td`
+> ✔️ `great_client_td` <br>
+> ✔️ `great_td` <br>
 > ✔️ `client_td`
 >  
 >  <br>
