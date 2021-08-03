@@ -114,9 +114,9 @@ Follow these guidelines for naming WP Engine environments.
 
 - One will be used by **Glide Team** and the other will be used by **Client and its team**
 
-- Username for Glide SFTP user will be `glidesftp`
+- Username for Glide's SFTP account will be `glidesftp`
 
-- Username for Client SFTP user will be `clientsftp`
+- Username for Client's SFTP account will be `clientsftp`
 
 - When adding sftp user on any environment only write `glidesftp` or `clientsftp` in username input field
 
@@ -146,7 +146,7 @@ Follow these guidelines for naming WP Engine environments.
 
 > **Allowed**
 > 
-> ✔️ `glidesftp`
+> ✔️ `glidesftp` <br>
 > ✔️ `clientsftp`
 >  
 >  <br>
@@ -167,11 +167,26 @@ Follow these guidelines for naming WP Engine environments.
 ## WordPress
 ---
 
+- Add two WordPress admin users to only development environment
+
+- One will be used by **Glide Team** and the other will be used by **Client and its team**
+
+- Username for Glide's WordPress account will be `glideadmin`
+
+- Username for Client's WordPress account will be `clientadmin`
+
+- No need to create users on staging environment and production environment
+
+- These environments will get their users when for first time development environment is copied over to them
+
+
+
+
+
 - There will always be two wp admin accounts added to dev environment.
 
 - Which will automatically get copied over to staging and production environment when site will go live for first time.
 
-- One will be used by Glide Team and the other will be used by Client and its Team.
 
 ## Admin User for Glide's use
 
