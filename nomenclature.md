@@ -88,9 +88,7 @@ Follow these guidelines for naming WP Engine environments.
 #### 👉 For Example
 
 - `glidedesignprd.wpengine.com` will be the url of `production environment`
-
 - `glidedesignstg.wpengine.com` will be the url of `staging environment`
-
 - `glidedesigndev.wpengine.com` will be the url of `development environment`
 
 <br>
@@ -134,15 +132,10 @@ Follow these guidelines for naming WP Engine environments.
 #### 👉 For Example
 
 - Glide's sftp username for `production environment` will be `glidedesignprd-glidesftp`
-
 - Glide's sftp username for `staging environment` will be `glidedesignstg-glidesftp`
-
 - Glide's sftp username for `development environment` will be `glidedesigndev-glidesftp`
-
 - Client's sftp username for `production environment` will be `glidedesignprd-clientsftp`
-
 - Client's sftp username for `staging environment` will be `glidedesignstg-clientsftp`
-
 - Client's sftp username for `development environment` will be `glidedesigndev-clientsftp`
 
 <br>
@@ -357,23 +350,99 @@ Five different branch types will be used for git workflow.
 > ✔️ Guidelines on how to use different branch types in development Workflow is available here in [Github Branches](https://github.com/) document.
 
 <br>
+<br>
 
 #### Master Branch
 
-- Main branch will be named "master"
+- Main branch will be named `master`
 
+#### 👉 For Example
 
+- `master`
+
+<br>
+
+> **Allowed**
+> 
+> ✔️ `master`
+>  
+>  <br>
+> 
+> **Not Allowed**
+> 
+> ❌ `main` <br>
+> ❌ `dev` <br>
+> ❌ `clientname` <br>
+> ❌ `masterbranch` 
+
+<br>
+<br>
 
 #### Development Branch
 
-- Active development branch will be named "development"
+- Active development branch will be named `development`
 
+#### 👉 For Example
 
+- `development`
+
+<br>
+
+> **Allowed**
+> 
+> ✔️ `development`
+>  
+>  <br>
+> 
+> **Not Allowed**
+> 
+> ❌ `dev` <br>
+> ❌ `under-development` <br>
+> ❌ `develop` <br>
+> ❌ `developmentbranch`
+
+<br>
+<br>
 
 #### Developer Specific Branches
 
-- developer branches will be named as "tm-03jul21" where tm stands for Travis McAshan and the date helps us quickly see how old the branch is.
-if we have to create multiple developer branches in same day, we will add roman numbering to end of it for easy identification for example "tm-03jul21" , "tm-03jul21i" and "tm-03jul21ii"
+- developer branches will be named as a combination of two words 
+
+- First word will be initials of developer
+
+- Second word will be date on which he is creating the branch
+
+- Dash will be used as a separator
+
+- Initials will help us to quickly see who created the branch
+
+- Date will help us in to quickly identify how latest or old the branch is
+
+- if we have to create multiple developer branches in same day, we will add roman numbering to end of it for easy identification 
+
+<br>
+
+#### 👉 For Example
+
+- `tm-03jul21`
+- `tm-15aug21`
+- `tm-03sep21i`
+- `tm-03sep21ii`
+
+<br>
+
+> **Allowed**
+> 
+> ✔️ `tm-03jul21`
+>  
+>  <br>
+> 
+> **Not Allowed**
+> 
+> ❌ `travis-03jul21` <br>
+> ❌ `tm-03jul` <br>
+> ❌ `tm-03-06-21` <br>
+> ❌ `tm-03-06`
 
 
 
