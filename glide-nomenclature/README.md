@@ -166,6 +166,8 @@ Follow these guidelines for naming WP Engine environments.
 
 ## 2️⃣ - WordPress
 
+<br>
+
 Follow these guidelines for naming WordPress accounts for different uses.
 
 <br>
@@ -310,6 +312,8 @@ Following are guidelines on how to setup and name those team spcific admin accou
 ![3](../assets/images/3.png)
 
 ## 3️⃣ - Github
+
+<br>
 
 Follow these guidelines for naming Github repository and its branches.
 
@@ -544,6 +548,8 @@ Five different branch types will be used for git workflow.
 
 ## 4️⃣ - Local WP
 
+<br>
+
 Follow these guidelines for naming Local WP install.
 
 If you fetch the website using Local WP built in pull feature, it will automatically use same details as on WP Engine `development environment`.
@@ -606,6 +612,8 @@ These will be fetched from `development environment` when you fetch the webiste 
 ![5](../assets/images/5.png)
 
 ## 5️⃣ - WordPress Theme
+
+<br>
 
 Follow these guidelines for naming WordPress Theme and its components.
 
