@@ -25,7 +25,9 @@ This nomenclature deals with all pieces of Glide's WordPress projects from local
 
 Follow these guidelines for naming WP Engine environments.
 
-#### Site Name
+<br>
+
+### ▶️ Site Name
 
 - Project Name will be used here with proper spaces.
 
@@ -33,24 +35,30 @@ Follow these guidelines for naming WP Engine environments.
 
 - Make Sure project name is never more than 3 words, ideally it should be combination of 2 words
 
-#### For example
+<br>
+
+#### 👉 For Example
 - Glide Design
 
-**Allowed**
-- Glide Design
-
-**Not Allowed**
-- G Design
-- Glide
-- GlideDesign
-- Glide Design Company LLC
-
-<br>
-<br>
-<br>
 <br>
 
-## Environment Name / Domain
+> **Allowed**
+> 
+> ✔️ Glide Design
+>  
+>  <br>
+> 
+> **Not Allowed**
+> 
+> ❌ G Design <br>
+> ❌ Glide <br>
+> ❌ GlideDesign <br>
+> ❌ Glide Design Company LLC 
+
+<br>
+<br>
+
+### ▶️ Environment Name
 
 - Project name will be used here in lowercase and without spaces.
 
@@ -58,20 +66,44 @@ Follow these guidelines for naming WP Engine environments.
 
 - If site name is longer than 11 characters. Try using only first word from the site name. Even if that is not available use portion of second word from site name.
 
-- Wp Engine allows only 14 characters for this. We will use 11 characters for project name and last 3 characters to identify the environment type.
+- WP Engine allows only 14 characters for this. We will use 11 characters for project name and last 3 characters to identify the environment type.
 
-- prd for production environment
-- stg for staging environment
-- dev for development environment
+- `prd` for `production environment`
+
+- `stg` for `staging environment`
+
+- `dev` for `development environment`
 
 - Make sure all enviroments have same URL except for the 3 character identifier.
 
 - With the help of this identifier in URL everyone will know on which specific environment he/she is and it also looks way more professional than having random names for these environments.
 
-### For Example
-- glidedesignprd.wpengine.com will be the url for production environment
-- glidedesignstg.wpengine.com will be the url for staging environment
-- glidedesigndev.wpengine.com will be the url for development environment
+<br>
+
+#### 👉 For Example
+- `glidedesignprd.wpengine.com` will be the url for `production environment`
+
+- `glidedesignstg.wpengine.com` will be the url for `staging environment`
+
+- `glidedesigndev.wpengine.com` will be the url for `development environment`
+
+<br>
+
+> **Allowed**
+> 
+> ✔️ `glidedesignprd.wpengine.com`
+>  
+>  <br>
+> 
+> **Not Allowed**
+> 
+> ❌ `glidedesign.wpengine.com` <br>
+> ❌ `gdesignprd.wpengine.com` <br>
+> ❌ `glidedesignpro.wpengine.com` <br>
+> ❌ `glidellc.wpengine.com` 
+
+<br>
+<br>
 
 ## SFTP Users
 
