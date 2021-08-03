@@ -94,11 +94,11 @@ This document also deals with all rules that have to be followed when working wi
 
 <br>
 
-The **top layer** is `production environment` that is live website for public view.
+The `top` layer is `production environment` that is live website for public view.
 
-The **middle** layer is `staging environment` that serves as bridge between other two.
+The `middle` layer is `staging environment` that serves as bridge between other two.
 
-The **bottom** layer is `development environment` where we are developing the website.
+The `bottom` layer is `development environment` where we are developing the website.
 
 <br>
 <br>
