@@ -359,6 +359,8 @@ Five different branch types will be used for git workflow.
 
 - Main branch will be named `master`
 
+<br>
+
 #### 👉 For Example
 
 - `master`
@@ -382,6 +384,8 @@ Five different branch types will be used for git workflow.
 <br>
 
 #### Development Branch
+
+<br>
 
 - Active development branch will be named `development`
 
