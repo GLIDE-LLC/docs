@@ -25,6 +25,8 @@ This nomenclature deals with all pieces of Glide's WordPress projects from local
 
 Follow these guidelines for naming WP Engine environments.
 
+> ✔️ Guidelines on how to use different WP Engine environments in development Workflow is available here in [WP Engine Environments](https://github.com/) document.
+
 <br>
 
 
@@ -232,7 +234,7 @@ Follow these guidelines for naming WordPress accounts for different uses.
 
 - First name will be `Admin`
 
-- If client needs further admin users, he can create those by logging into this user or we can assist them.
+- If client needs further admin users, he can create those by logging into this user or we can assist them
 
 <br>
 
@@ -288,6 +290,8 @@ Following are guidelines on how to setup and name those team spcific admin accou
 
 - `glidedev` can be username for Glide development team
 
+<br>
+
 > **Allowed**
 > 
 > ✔️ `glidedev`
@@ -312,29 +316,79 @@ Following are guidelines on how to setup and name those team spcific admin accou
 
 Follow these guidelines for naming Github repository and its branches.
 
-Each project will have its dedicated repository and it will be properly versioned and tagged.
+Each project will have its dedicated repository and it will be properly versioned and tagged during life time of the project.
 
 <br>
 
-## Repositoy Name
+### 📙 Github Repository
 
-- It will be same as project name except it will be in lowercase and will have dashes instead of spaces.
+- It will be named same as project name
 
-- If project name is Great Client repository will be named as great-client
+- It will be in lowercase and will have dashes instead of spaces
 
-## Branches
+- If project name is `Great Client` repository will be named as `great-client`
 
-- master branch as default will always be named "master"
+#### 👉 For Example
 
-- active development branch will always be named "development"
+- `great-client`
 
-- hotfix branches will be named as "hf-03jul21" where hf stands for hotfix and the date helps us quickly see how old the branch is.
-if we have to create multiple hotfix branches in same day, we will add roman numbering to end of it for easy identification for example "hf-03jul21" , "hf-03jul21i" and "hf-03jul21ii"
+<br>
+
+> **Allowed**
+> 
+> ✔️ `great-client`
+>  
+>  <br>
+> 
+> **Not Allowed**
+> 
+> ❌ `greatclient` <br>
+> ❌ `client` <br>
+> ❌ `great` <br>
+> ❌ `glide-great-client` 
+
+<br>
+<br>
+
+### 📙 Github Branches
+
+Five different branch types will be used for git workflow. 
+
+> ✔️ Guidelines on how to use different branch types in development Workflow is available here in [Github Branches](https://github.com/) document.
+
+<br>
+
+#### Master Branch
+
+- Main branch will be named "master"
+
+
+
+#### Development Branch
+
+- Active development branch will be named "development"
+
+
+
+#### Developer Specific Branches
 
 - developer branches will be named as "tm-03jul21" where tm stands for Travis McAshan and the date helps us quickly see how old the branch is.
 if we have to create multiple developer branches in same day, we will add roman numbering to end of it for easy identification for example "tm-03jul21" , "tm-03jul21i" and "tm-03jul21ii"
 
+
+
+#### Release Branches
+
 - release branches will be named as "release-v1.0.0"
+
+
+
+#### Hotfix Branches
+
+- Hotfix branches will be named as "hf-03jul21" where hf stands for hotfix and the date helps us quickly see how old the branch is.
+if we have to create multiple hotfix branches in same day, we will add roman numbering to end of it for easy identification for example "hf-03jul21" , "hf-03jul21i" and "hf-03jul21ii"
+
+
 
 ---
 ## Local WP
