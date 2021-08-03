@@ -192,7 +192,6 @@ Follow these guidelines for naming WordPress accounts for different uses.
 - First name will be `Admin`
 
 <br>
-<br>
 
 #### 👉 For Example
 
@@ -234,6 +233,8 @@ Follow these guidelines for naming WordPress accounts for different uses.
 #### 👉 For Example
 
 - `clientadmin`
+
+<br>
 
 > **Allowed**
 > 
@@ -320,6 +321,8 @@ Each project will have its dedicated repository and it will be properly versione
 - It will be in lowercase and will have dashes instead of spaces
 
 - If project name is `Great Client` repository will be named as `great-client`
+
+<br>
 
 #### 👉 For Example
 
