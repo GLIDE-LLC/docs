@@ -109,7 +109,7 @@ The database will always move downwards from production to staging to developmen
 
 Staging environment will always serve as bridge between the other two environments and all reviewing and testing will be done on staging environmnt.
 
-**Never move database upwards from staging to production to avoid mishaps.**
+**✅ Never move database upwards from staging to production to avoid mishaps.**
 
 <br>
 <br>
