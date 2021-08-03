@@ -85,8 +85,31 @@ This document deals with all rules that we have to be followed when working with
 - Development data will never get pushed upwards to staging environment, only if we are going live for first time
 
 <br>
+<br>
+<br>
+<br>
 
+![3](../assets/images/3.png)
 
+## 2️⃣ - Golden Rule - 🔺 Code moves up 🔻 Data moves down
+
+<br>
+
+The "top" layer is production environment that is live website for public view.
+
+The "middle" layer is staging environment that serves as bridge between other two.
+
+The "bottom" layer is development environment where we are developing the website.
+
+<br>
+
+The code will always move upwards from development to staging to production environment.
+
+The database will always move downwards from production to staging to development environment.
+
+Staging environment will always serve as bridge between the other two environments and all reviewing and testing will be done on staging environmnt.
+
+**Never move database upwards from staging to production to avoid mishaps.**
 
 <br>
 <br>
