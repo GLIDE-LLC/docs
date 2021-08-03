@@ -25,6 +25,8 @@ This workflow deals with all stages of a project developmnt from start till laun
 
 Start off with the correct setup in WP engine website hosting account.
 
+All three environment types will be created right at the start of project.
+
 Guidelines on how to name environments and WordPress users is available here in [Glide Nomenclature](https://github.com/) document.
 
 > ✔️ Make sure to follow the nomenclature to ensure same naming scheme across all projects and environments.
