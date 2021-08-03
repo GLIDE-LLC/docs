@@ -147,6 +147,7 @@ Follow these guidelines for naming WP Engine environments.
 > **Allowed**
 > 
 > ✔️ `glidesftp`
+> ✔️ `clientsftp`
 >  
 >  <br>
 > 
@@ -154,8 +155,8 @@ Follow these guidelines for naming WP Engine environments.
 > 
 > ❌ `glidedesignsftp` <br>
 > ❌ `glide-sftp` <br>
-> ❌ `glideuser` <br>
-> ❌ `glide-design` 
+> ❌ `clientuser` <br>
+> ❌ `client-sftp` 
 
 <br>
 <br>
