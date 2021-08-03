@@ -355,7 +355,7 @@ Five different branch types will be used for git workflow.
 <br>
 <br>
 
-####  📔 📒 Master Branch
+#### 📘 Master Branch
 
 - Main branch will be named `master`
 
@@ -383,7 +383,7 @@ Five different branch types will be used for git workflow.
 <br>
 <br>
 
-#### Development Branch
+#### 📘 Development Branch
 
 - Active development branch will be named `development`
 
@@ -411,7 +411,7 @@ Five different branch types will be used for git workflow.
 <br>
 <br>
 
-#### Developer Specific Branches
+#### 📘 Developer Specific Branches
 
 - developer branches will be named as a combination of two words 
 
@@ -453,13 +453,13 @@ Five different branch types will be used for git workflow.
 
 
 
-#### Release Branches
+#### 📘 Release Branches
 
 - release branches will be named as "release-v1.0.0"
 
 
 
-#### Hotfix Branches
+#### 📘 Hotfix Branches
 
 - Hotfix branches will be named as "hf-03jul21" where hf stands for hotfix and the date helps us quickly see how old the branch is.
 if we have to create multiple hotfix branches in same day, we will add roman numbering to end of it for easy identification for example "hf-03jul21" , "hf-03jul21i" and "hf-03jul21ii"
