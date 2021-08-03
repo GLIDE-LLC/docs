@@ -16,8 +16,7 @@ WP Engine environemts workflow for **version control** of Glide projects.
 
 This document explains what is the purpose of each environment type and why and how to use it in development workflow.
 
-This document deals with all rules that we have to be followed when working with different types of environments in WP Engine account.
-
+This document also deals with all rules that have to be followed when working with different types of environments in WP Engine account.
 
 <br>
 <br>
