@@ -161,7 +161,7 @@ Follow these guidelines for naming WP Engine environments.
 
 ![2](images/2.png)
 
-## 1️⃣ - WordPress
+## 2️⃣ - WordPress
 
 Follow these guidelines for naming WordPress accounts for different uses.
 
@@ -306,7 +306,7 @@ Following are guidelines on how to setup and name those team spcific admin accou
 
 ![3](images/3.png)
 
-## 1️⃣ - Github
+## 3️⃣ - Github
 
 Follow these guidelines for naming Github repository and its branches.
 
@@ -537,7 +537,7 @@ Five different branch types will be used for git workflow.
 
 ![4](images/4.png)
 
-## 1️⃣ - Local WP
+## 4️⃣ - Local WP
 
 Follow these guidelines for naming Local WP install.
 
@@ -598,7 +598,7 @@ No need to create WordPress admin accounts in `local environment`. These will be
 
 ![5](images/5.png)
 
-## 1️⃣ - WordPress Theme
+## 5️⃣ - WordPress Theme
 
 Follow these guidelines for naming WordPress Theme and its components.
 
