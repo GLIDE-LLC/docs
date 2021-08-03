@@ -748,3 +748,18 @@ Follow these guidelines for naming WordPress Theme and its components.
 <br>
 <br>
 <br>
+
+⚠️ Its critical that all developers on all teams follow these naming scheme rules. This will help us is bringing a lot of clarity to a pretty much everything involved in a Glide project.
+
+<br>
+<br>
+
+Happy Coding!
+
+<br>
+
+**Prepared by:**
+Muhammad AbuBakar
+
+<br>
+<br>
