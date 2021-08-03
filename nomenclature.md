@@ -643,6 +643,8 @@ Follow these guidelines for naming WordPress Theme and its components.
 
 - It will be in lowercase lowercase and will have dashes instead of spaces
 
+<br>
+
 #### 👉 For Example
 
 - If project name is `Great Client` theme folder name will become `great-client`
@@ -662,7 +664,6 @@ Follow these guidelines for naming WordPress Theme and its components.
 > ❌ `client-great` <br>
 > ❌ `glidetheme`
 
-
 <br>
 <br>
 <br>
@@ -678,6 +679,8 @@ Follow these guidelines for naming WordPress Theme and its components.
 - Add an underscore at end also to separate it from actual function name
 
 - Never use dash for separation
+
+<br>
 
 #### 👉 For Example
 
@@ -700,7 +703,6 @@ Follow these guidelines for naming WordPress Theme and its components.
 > ❌ `client-great_` <br>
 > ❌ `glidefunction_`
 
-
 <br>
 <br>
 <br>
@@ -718,6 +720,8 @@ Follow these guidelines for naming WordPress Theme and its components.
 - Add an underscore at end also to separate it from actual function name
 
 - Never use dash for separation
+
+<br>
 
 #### 👉 For Example
 
