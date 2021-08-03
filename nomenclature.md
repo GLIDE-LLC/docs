@@ -186,7 +186,7 @@ Follow these guidelines for naming WordPress accounts for different uses.
 
 <br>
 
-### 📙 Admin User for Glide's use
+### 📙 Admin Account for Glide's Use
 
 - Username will be `glideadmin`
 
@@ -222,7 +222,7 @@ Follow these guidelines for naming WordPress accounts for different uses.
 <br>
 <br>
 
-### 📙 Admin User for Client's use
+### 📙 Admin Account for Client's Use
 
 - Username will be `clientadmin`
 
@@ -252,6 +252,54 @@ Follow these guidelines for naming WordPress accounts for different uses.
 > ❌ `client-admin` <br>
 > ❌ `cadmin` <br>
 > ❌ `client-name` 
+
+<br>
+<br>
+
+### 📙 Admin Accounts for Specific Glide Team
+
+When project is launched we will need separate admin accounts for different teams. So that different teams can work on the project if needed.
+
+We will be able to version control theme code with help of Github repository. But in order for us to know who did what content or images updates on specific environment after project is launched, wwe will need team specific WordPress admin accounts. 
+
+We will also maintain WordPress activity log for this purpose.
+
+Following are guidelines on how to setup and name those team spcific admin accounts.
+
+<br>
+
+- Username will be combination of two words.
+
+- First word in username will be `glide`
+
+- Second word in username will be `teamname`
+
+- There will be no dash in these two words to maintain similar naming scheme with other username types
+
+- Email will be team specific email `team@glidedesign.com`
+
+- First name will be `Glide`
+
+- Last name will be `Team Name`
+
+<br>
+
+#### 👉 For Example
+
+- `glidedev` can be username for Glide development team
+
+> **Allowed**
+> 
+> ✔️ `glidedev`
+>  
+>  <br>
+> 
+> **Not Allowed**
+> 
+> ❌ `glide-dev` <br>
+> ❌ `dev-admin` <br>
+> ❌ `devadmin` <br>
+> ❌ `glide-team` 
 
 <br>
 <br>
