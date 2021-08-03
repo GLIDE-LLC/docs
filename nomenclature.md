@@ -164,6 +164,7 @@ Follow these guidelines for naming WP Engine environments.
 <br>
 <br>
 
+![2](images/2.png)
 
 ## 1️⃣ - WordPress
 
@@ -185,10 +186,18 @@ Follow these guidelines for naming WordPress accounts for different uses.
 
 <br>
 
-#### 👉 Admin User for Glide's use
+### 📙 Admin User for Glide's use
 
-- username will always be glideadmin
-- email will always be support@glidedesign.com
+- username will always be `glideadmin`
+
+- email will always be `support@glidedesign.com`
+
+<br>
+<br>
+
+#### 👉 For Example
+
+- `glideadmin`
 
 <br>
 
@@ -209,15 +218,19 @@ Follow these guidelines for naming WordPress accounts for different uses.
 <br>
 <br>
 
-#### 👉 Admin User for Client's Use
+### 📙 Admin User for Client's use
 
-- username will always be clientadmin
+- username will always be `clientadmin`
 
-- email will always be main point of contact for client hello@clientwebsite.com
+- email will always be main point of contact for client `hello@clientwebsite.com`
 
 - If client needs further admin users, he can create those by logging into this user or we can assist them.
 
 <br>
+
+#### 👉 For Example
+
+- `client admin`
 
 > **Allowed**
 > 
@@ -237,9 +250,15 @@ Follow these guidelines for naming WordPress accounts for different uses.
 <br>
 <br>
 
+![3](images/3.png)
+
 ## 1️⃣ - Github
 
-- Each project will have its dedicated repository and it will be properly versioned and tagged.
+Follow these guidelines for naming Github repository and its branches.
+
+Each project will have its dedicated repository and it will be properly versioned and tagged.
+
+<br>
 
 ## Repositoy Name
 
