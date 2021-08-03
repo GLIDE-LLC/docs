@@ -10,6 +10,8 @@
 
 # Glide Nomenclature
 
+<br>
+
 Proper naming scheme to be followed by **all teams and project managers** for Glide projects.
 
 This nomenclature deals with all pieces of Glide's WordPress projects from local environment to remote. This nomenclature also includes naming scheme for WordPress theme and its files and functions.
@@ -23,12 +25,13 @@ This nomenclature deals with all pieces of Glide's WordPress projects from local
 
 ## 1️⃣ - WP Engine
 
-Follow these guidelines for naming WP Engine environments.
-
-> Guidelines on how to use different WP Engine environments in development Workflow is available here in [WP Engine Environments Workflow](https://github.com/) document.
-
 <br>
 
+Follow these guidelines for naming WP Engine environments.
+
+> 📗 Guidelines on how to use different WP Engine environments in development Workflow is available here in [WP Engine Environments Workflow](https://github.com/) document.
+
+<br>
 
 ### 📙 Site Name
 
@@ -348,7 +351,7 @@ Each project will have its dedicated repository and it will be properly versione
 
 Five different branch types will be used for git workflow.
 
-> Guidelines on how to use different branch types in development Workflow is available here in [Github Branches Workflow](https://github.com/) document.
+> 📗 Guidelines on how to use different branch types in development Workflow is available here in [Github Branches Workflow](https://github.com/) document.
 
 <br>
 
