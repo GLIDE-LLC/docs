@@ -27,9 +27,10 @@ Follow these guidelines for naming WP Engine environments.
 
 <br>
 
-### 📑 Site Name
 
-- Project Name will be used here with proper spaces.
+### 📙 Site Name      
+
+- Project Name will be used here with proper spaces
 
 - Wp Engine allows 40 characters for this so it will not be an issue to have a proper and nice Site Name
 
@@ -58,15 +59,17 @@ Follow these guidelines for naming WP Engine environments.
 <br>
 <br>
 
-### ▶️ Environment Name
+### 📙 Environment Name
 
-- Project name will be used here in lowercase and without spaces.
+- Project name will be used here in lowercase and without spaces
 
-- This will be lowercase version of the Site Name.
+- This will be lowercase version of the Site Name
 
-- If site name is longer than 11 characters. Try using only first word from the site name. Even if that is not available use portion of second word from site name.
+- If site name is longer than 11 characters, try using only first word from the site name
 
-- WP Engine allows only 14 characters for this. We will use 11 characters for project name and last 3 characters to identify the environment type.
+- Even if that is not available use portion of second word from site name
+
+- WP Engine allows only 14 characters, Use 11 characters for project name and last 3 characters to identify the environment type
 
 - `prd` for `production environment`
 
@@ -76,7 +79,7 @@ Follow these guidelines for naming WP Engine environments.
 
 - Make sure all enviroments have same URL except for the 3 character identifier.
 
-- With the help of this identifier in URL everyone will know on which specific environment he/she is and it also looks way more professional than having random names for these environments.
+- With the help of this identifier in URL everyone will know on which specific environment he/she is and it also looks way more professional than having random names for these environments
 
 <br>
 
@@ -105,18 +108,59 @@ Follow these guidelines for naming WP Engine environments.
 <br>
 <br>
 
-## SFTP Users
+### 📙 SFTP Users
 
-- When adding sftp users for each of the environments make sure to use the identifier as the username.
+- Always add two sftp users to each of the WP Engine environments
 
-- For Example, when adding sftp user on production environment only write glidesftp in username input field.
+- One will be used by **Glide Team** and the other will be used by **Client and its team**
 
-- Once you add the username wp engine will automatically prefix it with environment name.
+- Username for Glide SFTP user will be `glidesftp`
 
-### For example
-- sftp username for production environment will become glidedesignprd-glidesftp
-- sftp username for staging environment will become glidedesignstg-glidesftp
-- sftp username for development environment will become glidedesigndev-glidesftp
+- Username for Client SFTP user will be `clientsftp`
+
+- When adding sftp user on any environment only write `glidesftp` or `clientsftp` in username input field
+
+- `glidedesignprd-` prefix is automatically added by WP Engine
+
+- So the added username will become `glidedesignprd-glidesftp` instead of just `glidesftp` that we entered
+
+- With the help of this prefix, everyone will know what is the purpose of this sftp user and to whom it belongs
+
+<br>
+
+#### 👉 For Example
+
+- Glide's sftp username for `production environment` will be `glidedesignprd-glidesftp`
+
+- Glide's sftp username for `staging environment` will be `glidedesignstg-glidesftp`
+
+- Glide's sftp username for `development environment` will be `glidedesigndev-glidesftp`
+
+- Client's sftp username for `production environment` will be `glidedesignprd-clientsftp`
+
+- Client's sftp username for `staging environment` will be `glidedesignstg-clientsftp`
+
+- Client's sftp username for `development environment` will be `glidedesigndev-clientsftp`
+
+<br>
+
+> **Allowed**
+> 
+> ✔️ `glidesftp`
+>  
+>  <br>
+> 
+> **Not Allowed**
+> 
+> ❌ `glidedesignsftp` <br>
+> ❌ `glide-sftp` <br>
+> ❌ `glideuser` <br>
+> ❌ `glide-design` 
+
+<br>
+<br>
+<br>
+<br>
 
 ---
 ## WordPress
@@ -130,7 +174,7 @@ Follow these guidelines for naming WP Engine environments.
 
 ## Admin User for Glide's use
 
-- username will always be glideadmin
+- username will always be glide-sftp
 
 ### Not allowed
 - glidedesign
