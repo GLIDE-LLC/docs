@@ -353,7 +353,6 @@ Five different branch types will be used for git workflow.
 > ✔️ Guidelines on how to use different branch types in development Workflow is available here in [Github Branches](https://github.com/) document.
 
 <br>
-<br>
 
 #### 📘 Master Branch
 
@@ -364,7 +363,7 @@ Five different branch types will be used for git workflow.
 #### 👉 For Example
 
 - `master`
-
+ 
 <br>
 
 > **Allowed**
@@ -380,6 +379,7 @@ Five different branch types will be used for git workflow.
 > ❌ `clientname` <br>
 > ❌ `masterbranch` 
 
+<br>
 <br>
 <br>
 
@@ -410,10 +410,11 @@ Five different branch types will be used for git workflow.
 
 <br>
 <br>
+<br>
 
 #### 📘 Developer Specific Branches
 
-- developer branches will be named as a combination of two words 
+- Developer branches will be named as a combination of two words 
 
 - First word will be initials of developer
 
@@ -425,7 +426,7 @@ Five different branch types will be used for git workflow.
 
 - Date will help us in to quickly identify how latest or old the branch is
 
-- if we have to create multiple developer branches in same day, we will add roman numbering to end of it for easy identification 
+- If we have to create multiple developer branches in same day, we will add roman numbering to end of it for easy identification 
 
 <br>
 
@@ -451,13 +452,45 @@ Five different branch types will be used for git workflow.
 > ❌ `tm-03-06-21` <br>
 > ❌ `tm-03-06`
 
+<br>
+<br>
+<br>
 
 
 #### 📘 Release Branches
 
-- release branches will be named as "release-v1.0.0"
+- Release branches will be named as a combination of two words 
 
+- First word will be `release`
 
+- Second word will be version number
+
+- Dash will be used as a separator
+
+<br>
+
+#### 👉 For Example
+
+- `release-1.0.0`
+
+<br>
+
+> **Allowed**
+> 
+> ✔️ `release-1.0.0`
+>  
+>  <br>
+> 
+> **Not Allowed**
+> 
+> ❌ `release1.0.0` <br>
+> ❌ `release-v1.0.0` <br>
+> ❌ `1.0.0` <br>
+> ❌ `version-1.0.0`
+
+<br>
+<br>
+<br>
 
 #### 📘 Hotfix Branches
 
