@@ -39,7 +39,7 @@ Purpose of these documents is to ensure that all developers across all teams fol
 
 <br>
 
-✔️ WP Engine environemts workflow for version control of Glide projects.
+✔️ WP Engine environments workflow for version control of Glide projects.
 
 <br>
 
