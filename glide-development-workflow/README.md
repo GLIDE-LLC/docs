@@ -30,7 +30,9 @@ This workflow deals with all stages of a project developmnt from start till laun
 | 09 | [Launch Release `2.0.0`](https://github.com/abubakar-me/glide-design/tree/master/glide-development-workflow#9%EF%B8%8F%E2%83%A3---launch-release-200) |
 | 10 | [Launch](https://github.com/abubakar-me/glide-design/tree/master/glide-development-workflow#-launch) |
 | 11 | [Support](https://github.com/abubakar-me/glide-design/tree/master/glide-development-workflow#1%EF%B8%8F%E2%83%A3---support) |
-| 12 | [Support Release `2.0.1`](https://github.com/abubakar-me/glide-design/tree/master/glide-development-workflow#2%EF%B8%8F%E2%83%A3---support-release-201) |
+| 12 | [Launch](https://github.com/abubakar-me/glide-design/tree/master/glide-development-workflow#-launch) |
+| 13 | [Support](https://github.com/abubakar-me/glide-design/tree/master/glide-development-workflow#1%EF%B8%8F%E2%83%A3---support) |
+| 14 | [Support Release `2.0.1`](https://github.com/abubakar-me/glide-design/tree/master/glide-development-workflow#2%EF%B8%8F%E2%83%A3---support-release-201) |
 
 <br>
 <br>
@@ -350,6 +352,78 @@ Everything is already reviewed and ready for launch.
 
 ![11](../assets/images/11.png)
 
+## 🅾️ - Hotfix
+
+<br>
+
+So right after launch we have to make an emergency fix to the code.
+
+Follow the steps below to fix the issue quickly.
+
+<br>
+
+- Create team specific WordPress account if different team is going to work on tickets
+
+- Install activity tracking plugin, if its not already installed
+
+- Copy `production environment` to `staging environment`
+
+- Copy `staging environment` to `development environment`
+
+- You can skip the previous step if client has not made any file changes.
+
+- Create `hotfix branch` from `master branch`
+
+- Pull latest version of database to Local WP (if required)
+
+- Pull latest version of uploads folder to Local WP (if required)
+
+- Make the required updates and fixes
+
+<br>
+<br>
+<br>
+<br>
+
+![12](../assets/images/11.png)
+
+## 🅾️ - Hotfix Release 2.0.1
+
+When ready to release the hot fix, follow these steps.
+
+<br>
+
+- Create pull request for lead developer when you are done with edits
+
+- Lead developer reviews the code
+
+- Merge `hotfix branch` back into `master branch`
+
+- Automatic deployment pushes code to development environment on wp engine
+
+- Tag `master branch` with new version number `2.0.1`
+
+- Merge `hotfix branch` back into `development branch`
+
+- Review `development environment`
+
+- Copy `development environment` to `staging environment` (files only)
+
+- Do content and image edits on `staging environment` (if required)
+
+- Share `staging environment` with reviewers
+
+- On approval copy approved `staging environment` to `production environment`
+
+- Copy `staging environment` down to `development environment`
+
+<br>
+<br>
+<br>
+<br>
+
+![13](../assets/images/11.png)
+
 ## 1️⃣ - Support
 
 Months have passed and client came to Glide support to get some changes made on his website.
@@ -357,6 +431,10 @@ Months have passed and client came to Glide support to get some changes made on 
 Follow the steps below to start working on support tickets.
 
 <br>
+
+- Create team specific WordPress account if different team is going to work on tickets
+
+- Install activity tracking plugin, if its not already installed
 
 - Copy `production environment` to `staging environment`
 
@@ -383,9 +461,9 @@ Follow the steps below to start working on support tickets.
 <br>
 <br>
 
-![12](../assets/images/12.png)
+![14](../assets/images/12.png)
 
-## 2️⃣ - Support Release `2.0.1`
+## 2️⃣ - Support Release `2.0.2`
 
 When ready to share the updates with client, follow these steps.
 
