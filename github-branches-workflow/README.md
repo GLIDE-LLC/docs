@@ -20,6 +20,18 @@ This document also deals with all rules that have to be followed when working wi
 
 <br>
 <br>
+
+| #  | Topics |
+|----|-------|
+| 01 | [Master Branch](https://github.com/abubakar-me/glide-design/tree/master/github-branches-workflow#1%EF%B8%8F%E2%83%A3---master-branch) |
+| 02 | [Development Branch](https://github.com/abubakar-me/glide-design/tree/master/github-branches-workflow#2%EF%B8%8F%E2%83%A3---development-branch) |
+| 03 | [Developer Branch](https://github.com/abubakar-me/glide-design/tree/master/github-branches-workflow#3%EF%B8%8F%E2%83%A3---developer-branch) |
+| 04 | [Release Branch](https://github.com/abubakar-me/glide-design/tree/master/github-branches-workflow#4%EF%B8%8F%E2%83%A3---release-branch) |
+| 05 | [Hotfix Branch](https://github.com/abubakar-me/glide-design/tree/master/github-branches-workflow#5%EF%B8%8F%E2%83%A3---hotfix-branch) |
+| 06 | [Big Picture](https://github.com/abubakar-me/glide-design/tree/master/github-branches-workflow#6%EF%B8%8F%E2%83%A3---big-picture) |
+
+<br>
+<br>
 <br>
 <br>
 
