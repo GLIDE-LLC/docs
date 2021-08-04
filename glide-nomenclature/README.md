@@ -22,30 +22,30 @@ This nomenclature deals with all pieces of Glide's WordPress projects from local
 | #  | Topics |
 |----|-------|
 | 01 | [WP Engine](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#1%EF%B8%8F%E2%83%A3---wp-engine) |
-|    | [Site Name](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-site-name) |
-|    | [Environment Name](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-environment-name) |
-|    | [SFTP Users](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-sftp-users) |
+|    | [&nbsp; &nbsp; &nbsp; &nbsp;Site Name](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-site-name) |
+|    | [&nbsp; &nbsp; &nbsp; &nbsp;Environment Name](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-environment-name) |
+|    | [&nbsp; &nbsp; &nbsp; &nbsp;SFTP Users](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-sftp-users) |
 | 02 | [WordPress](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#2%EF%B8%8F%E2%83%A3---wordpress) |
-|    | [Admin Account for Glide's Use](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-admin-account-for-glides-use) |
-|    | [Admin Account for Client's Use](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-admin-account-for-clients-use) |
-|    | [Admin Accounts for Specific Glide Team](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-admin-accounts-for-specific-glide-team) |
+|    | [&nbsp; &nbsp; &nbsp; &nbsp;Admin Account for Glide's Use](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-admin-account-for-glides-use) |
+|    | [&nbsp; &nbsp; &nbsp; &nbsp;Admin Account for Client's Use](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-admin-account-for-clients-use) |
+|    | [&nbsp; &nbsp; &nbsp; &nbsp;Admin Accounts for Specific Glide Team](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-admin-accounts-for-specific-glide-team) |
 | 03 | [Github](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#3%EF%B8%8F%E2%83%A3---github) |
-|    | [Github Repository](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-github-repository) |
-|    | [Github Branches](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-github-branches) |
-|    | [Master Branch](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-master-branch) |
-|    | [Development Branch](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-development-branch) |
-|    | [Developer Specific Branches](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-developer-specific-branches) |
-|    | [Release Branches](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-release-branches) |
-|    | [Hotfix Branches](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-hotfix-branches) |
-|    | [Release Versions](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-release-versions) |
+|    | [&nbsp; &nbsp; &nbsp; &nbsp;Github Repository](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-github-repository) |
+|    | [&nbsp; &nbsp; &nbsp; &nbsp;Github Branches](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-github-branches) |
+|    | [&nbsp; &nbsp; &nbsp; &nbsp;Master Branch](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-master-branch) |
+|    | [&nbsp; &nbsp; &nbsp; &nbsp;Development Branch](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-development-branch) |
+|    | [&nbsp; &nbsp; &nbsp; &nbsp;Developer Specific Branches](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-developer-specific-branches) |
+|    | [&nbsp; &nbsp; &nbsp; &nbsp;Release Branches](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-release-branches) |
+|    | [&nbsp; &nbsp; &nbsp; &nbsp;Hotfix Branches](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-hotfix-branches) |
+|    | [&nbsp; &nbsp; &nbsp; &nbsp;Release Versions](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-release-versions) |
 | 04 | [Local WP](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#4%EF%B8%8F%E2%83%A3---local-wp) |
-|    | [Local Environment](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-local-environment) |
-|    | [WordPress Accounts](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-wordpress-accounts) |
+|    | [&nbsp; &nbsp; &nbsp; &nbsp;Local Environment](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-local-environment) |
+|    | [&nbsp; &nbsp; &nbsp; &nbsp;WordPress Accounts](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-wordpress-accounts) |
 | 05 | [WordPress Theme](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#5%EF%B8%8F%E2%83%A3---wordpress-theme) |
-|    | [Theme Name](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-theme-name) |
-|    | [Theme Folder](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-theme-folder) |
-|    | [Function's Prefix](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-functions-prefix) |
-|    | [Text Domain](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-text-domain) |
+|    | [&nbsp; &nbsp; &nbsp; &nbsp;Theme Name](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-theme-name) |
+|    | [&nbsp; &nbsp; &nbsp; &nbsp;Theme Folder](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-theme-folder) |
+|    | [&nbsp; &nbsp; &nbsp; &nbsp;Function's Prefix](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-functions-prefix) |
+|    | [&nbsp; &nbsp; &nbsp; &nbsp;Text Domain](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-text-domain) |
 
 <br>
 <br>
