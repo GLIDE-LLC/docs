@@ -195,6 +195,11 @@ Lets put up everything in one big picture to visualize how the workflow wroks.
 
 <br>
 <br>
+
+⚠️ Its critical that all developers on all teams follow these guidelines rules to ensure effective version control of Glide projects.
+
+<br>
+<br>
 <br>
 
 Happy Coding!
