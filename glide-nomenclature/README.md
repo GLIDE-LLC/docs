@@ -572,6 +572,46 @@ Five different branch types will be used for git workflow.
 <br>
 <br>
 <br>
+
+### 📙 Release Versions
+
+- Release versions will have 1.0.0 format
+
+- 1.0.0 will be version of initial demo setup
+
+- During review phase only change last two decimal points
+
+- Launch will be major release
+
+- number for launch version will be 2.0.0
+
+- After launch only change last two decimal points unless we have a redesign update
+
+<br>
+<br>
+
+#### 👉 For Example
+
+- `1.0.0`
+
+<br>
+
+> **Allowed**
+>
+> ✔️ `1.0.0`
+>
+>  <br>
+>
+> **Not Allowed**
+>
+> ❌ `v1.0.0` <br>
+> ❌ `version1.0.0` <br>
+> ❌ `v1.0` <br>
+> ❌ `v2.0.2`
+
+<br>
+<br>
+<br>
 <br>
 
 ![4](../assets/images/4.png)
