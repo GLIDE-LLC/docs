@@ -60,6 +60,8 @@ This document also deals with all rules that have to be followed when working wi
 
 - All developers will create there own `developer branches` from this branch for any type of code edits
 
+- This will branch out of `master branch` after initial project setup
+
 - `Release branches` will be created from this branch to release new theme versions
 
 <br>
