@@ -37,6 +37,7 @@ This nomenclature deals with all pieces of Glide's WordPress projects from local
 |    | [Developer Specific Branches](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-developer-specific-branches) |
 |    | [Release Branches](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-release-branches) |
 |    | [Hotfix Branches](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-hotfix-branches) |
+|    | [Release Versions](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-release-versions) |
 | 04 | [Local WP](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#4%EF%B8%8F%E2%83%A3---local-wp) |
 |    | [Local Environment](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-local-environment) |
 |    | [WordPress Accounts](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-wordpress-accounts) |
@@ -587,7 +588,6 @@ Five different branch types will be used for git workflow.
 
 - After launch only change last two decimal points unless we have a redesign update
 
-<br>
 <br>
 
 #### 👉 For Example
