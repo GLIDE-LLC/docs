@@ -10,6 +10,8 @@
 
 # Development Workflow
 
+<br>
+
 Complete project development workflow for **version control** of Glide projects.
 
 This workflow deals with all stages of a project developmnt from start till launch. This workflow also includes process for properly supporting and maintaining the project after launch.
@@ -42,6 +44,8 @@ This workflow deals with all stages of a project developmnt from start till laun
 ![1](../assets/images/1.png)
 
 ## 1️⃣ - WPEngine Site
+
+<br>
 
 Start off with the correct setup in WP engine website hosting account.
 
@@ -89,6 +93,8 @@ Following is the list of tasks to be performed on WP Engine.
 
 ## 2️⃣ - Local WP Site
 
+<br>
+
 Use [Local WP](https://github.com/) for setting up local WordPress environment.
 
 Local WP is supported by WP Engine and it fully integrates with their service.
@@ -116,6 +122,8 @@ If for any reason you can not pull the `development environment`, add a new site
 
 ## 3️⃣ - Local Repository
 
+<br>
+
 Use [Github Desktop](https://github.com/) for easy GUI based git workflow.
 
 <br>
@@ -138,6 +146,8 @@ Use [Github Desktop](https://github.com/) for easy GUI based git workflow.
 ![4](../assets/images/4.png)
 
 ## 4️⃣ - Github Repository
+
+<br>
 
 Use [Glide Design](https://github.com/) github account and user for setting up remote repository.
 
@@ -168,6 +178,8 @@ Use [Glide Design](https://github.com/) github account and user for setting up r
 
 ## 5️⃣ - Github Branches
 
+<br>
+
 Documentation on how Glide Design uses various branch types for different purposes is here in [Github Branches Workflow](https://github.com/) document.
 
 <br>
@@ -190,6 +202,8 @@ Documentation on how Glide Design uses various branch types for different purpos
 ![6](../assets/images/6.png)
 
 ## 6️⃣ - First Release `1.0.0`
+
+<br>
 
 Development of the project is complete and its time to show off the hard work.
 
@@ -232,6 +246,8 @@ Let's put up the demo website for client and release our first theme version.
 
 ## 7️⃣ - Reviews & Tickets
 
+<br>
+
 Staging website is reviewed and tickets are created in done done.
 
 Follow the steps below to start working on done done tickets.
@@ -254,6 +270,8 @@ Follow the steps below to start working on done done tickets.
 ![8](../assets/images/8.png)
 
 ## 8️⃣ - Second Release `1.0.1`
+
+<br>
 
 Required updates and fixes are made to the code.
 
@@ -300,6 +318,8 @@ Same process will be followed that was followed for initial demo release.
 
 ## 9️⃣ - Launch Release `2.0.0`
 
+<br>
+
 When reviews and fixes are done and all done done tickets are cleared, it's time to prepare launch release.
 
 <br>
@@ -334,6 +354,8 @@ When reviews and fixes are done and all done done tickets are cleared, it's time
 ![10](../assets/images/10.png)
 
 ## 🔟 Launch
+
+<br>
 
 Everything is already reviewed and ready for launch.
 
@@ -389,6 +411,8 @@ Follow the steps below to fix the issue quickly.
 
 ## 🅾️ - Hotfix Release 2.0.1
 
+<br>
+
 When ready to release the hot fix, follow these steps.
 
 <br>
@@ -425,6 +449,8 @@ When ready to release the hot fix, follow these steps.
 ![13](../assets/images/13.png)
 
 ## 1️⃣ - Support
+
+<br>
 
 Months have passed and client came to Glide support to get some changes made on his website.
 
@@ -464,6 +490,8 @@ Follow the steps below to start working on support tickets.
 ![14](../assets/images/14.png)
 
 ## 2️⃣ - Support Release `2.0.2`
+
+<br>
 
 When ready to share the updates with client, follow these steps.
 
