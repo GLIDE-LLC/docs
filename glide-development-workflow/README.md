@@ -21,7 +21,7 @@ This workflow deals with all stages of a project developmnt from start till laun
 
 | #  | Topics |
 |----|-------|
-| 01 | [WPEngine Site](https://github.com/abubakar-me/glide-design/tree/master/glide-development-workflow#1%EF%B8%8F%E2%83%A3---wpengine-site) |
+| 01 | [WP Engine Site](https://github.com/abubakar-me/glide-design/tree/master/glide-development-workflow#1%EF%B8%8F%E2%83%A3---wpengine-site) |
 | 02 | [Local WP Site](https://github.com/abubakar-me/glide-design/tree/master/glide-development-workflow#2%EF%B8%8F%E2%83%A3---local-wp-site) |
 | 03 | [Local Repository](https://github.com/abubakar-me/glide-design/tree/master/glide-development-workflow#3%EF%B8%8F%E2%83%A3---local-repository) |
 | 04 | [Github Repository](https://github.com/abubakar-me/glide-design/tree/master/glide-development-workflow#4%EF%B8%8F%E2%83%A3---github-repository) |
@@ -43,7 +43,7 @@ This workflow deals with all stages of a project developmnt from start till laun
 
 ![1](../assets/images/1.png)
 
-## 1️⃣ - WPEngine Site
+## 1️⃣ - WP Engine Site
 
 <br>
 
