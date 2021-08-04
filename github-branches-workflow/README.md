@@ -127,9 +127,9 @@ We are ready for a new version release, we will create a `release branch` and up
 <br>
 <br>
 
-![4](../assets/images/4.png)
+![5](../assets/images/5.png)
 
-## 4️⃣ - Hotfix Branch
+## 5️⃣ - Hotfix Branch
 
 <br>
 
@@ -158,7 +158,7 @@ We have an emergency situation and we need to make quick fix, we will create a `
 <br>
 <br>
 
-![4](../assets/images/4.png)
+![6](../assets/images/6.png)
 
 ## 4️⃣ - Golden Rule - 🔺 Code Moves Up 🔻 Data Moves Down
 
