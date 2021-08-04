@@ -29,10 +29,10 @@ This workflow deals with all stages of a project developmnt from start till laun
 | 08 | [Second Release `1.0.1`](https://github.com/abubakar-me/glide-design/tree/master/glide-development-workflow#8%EF%B8%8F%E2%83%A3---second-release-101) |
 | 09 | [Launch Release `2.0.0`](https://github.com/abubakar-me/glide-design/tree/master/glide-development-workflow#9%EF%B8%8F%E2%83%A3---launch-release-200) |
 | 10 | [Launch](https://github.com/abubakar-me/glide-design/tree/master/glide-development-workflow#-launch) |
-| 11 | [Support](https://github.com/abubakar-me/glide-design/tree/master/glide-development-workflow#1%EF%B8%8F%E2%83%A3---support) |
-| 12 | [Launch](https://github.com/abubakar-me/glide-design/tree/master/glide-development-workflow#-launch) |
+| 11 | [Hotfix](https://github.com/abubakar-me/glide-design/blob/master/glide-development-workflow/README.md#%F0%9F%85%BE%EF%B8%8F---hotfix) |
+| 12 | [Hotfix Release `2.0.1`](https://github.com/abubakar-me/glide-design/blob/master/glide-development-workflow/README.md#%F0%9F%85%BE%EF%B8%8F---hotfix-release-201) |
 | 13 | [Support](https://github.com/abubakar-me/glide-design/tree/master/glide-development-workflow#1%EF%B8%8F%E2%83%A3---support) |
-| 14 | [Support Release `2.0.1`](https://github.com/abubakar-me/glide-design/tree/master/glide-development-workflow#2%EF%B8%8F%E2%83%A3---support-release-201) |
+| 14 | [Support Release `2.0.2`](https://github.com/abubakar-me/glide-design/blob/master/glide-development-workflow/README.md#2%EF%B8%8F%E2%83%A3---support-release-202) |
 
 <br>
 <br>
@@ -422,7 +422,7 @@ When ready to release the hot fix, follow these steps.
 <br>
 <br>
 
-![13](../assets/images/11.png)
+![13](../assets/images/13.png)
 
 ## 1️⃣ - Support
 
@@ -461,7 +461,7 @@ Follow the steps below to start working on support tickets.
 <br>
 <br>
 
-![14](../assets/images/12.png)
+![14](../assets/images/14.png)
 
 ## 2️⃣ - Support Release `2.0.2`
 
@@ -477,7 +477,7 @@ When ready to share the updates with client, follow these steps.
 
 - Automatic deployment pushes code to development environment on wp engine
 
-- Tag `master branch` with new version number `2.0.1`
+- Tag `master branch` with new version number `2.0.2`
 
 - Merge `release branch` back into `development branch`
 
