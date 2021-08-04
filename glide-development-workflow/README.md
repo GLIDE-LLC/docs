@@ -24,7 +24,7 @@ This workflow deals with all stages of a project developmnt from start till laun
 | 03 | [Local Repository](https://github.com/abubakar-me/glide-design/tree/master/glide-development-workflow#3%EF%B8%8F%E2%83%A3---local-repository) |
 | 04 | [Github Repository](https://github.com/abubakar-me/glide-design/tree/master/glide-development-workflow#4%EF%B8%8F%E2%83%A3---github-repository) |
 | 05 | [Github Branches](https://github.com/abubakar-me/glide-design/tree/master/glide-development-workflow#5%EF%B8%8F%E2%83%A3---github-branches) |
-| 06 | [First Release - `1.0.0`](https://github.com/abubakar-me/glide-design/tree/master/glide-development-workflow#6%EF%B8%8F%E2%83%A3---first-release---100) |
+| 06 | [First Release `1.0.0`](https://github.com/abubakar-me/glide-design/tree/master/glide-development-workflow#6%EF%B8%8F%E2%83%A3---first-release---100) |
 | 07 | [Reviews & Tickets](https://github.com/abubakar-me/glide-design/tree/master/glide-development-workflow#7%EF%B8%8F%E2%83%A3---reviews--tickets) |
 | 08 | [Second Release `1.0.1`](https://github.com/abubakar-me/glide-design/tree/master/glide-development-workflow#8%EF%B8%8F%E2%83%A3---second-release-101) |
 | 09 | [Launch Release `2.0.0`](https://github.com/abubakar-me/glide-design/tree/master/glide-development-workflow#9%EF%B8%8F%E2%83%A3---launch-release-200) |
@@ -187,7 +187,7 @@ Documentation on how Glide Design uses various branch types for different purpos
 
 ![6](../assets/images/6.png)
 
-## 6️⃣ - First Release - `1.0.0`
+## 6️⃣ - First Release `1.0.0`
 
 Development of the project is complete and its time to show off the hard work.
 
