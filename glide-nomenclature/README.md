@@ -40,7 +40,7 @@ This nomenclature deals with all pieces of Glide's WordPress projects from local
 | 04 | [Local WP](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#4%EF%B8%8F%E2%83%A3---local-wp) |
 |    | [Local Environment](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-local-environment) |
 |    | [WordPress Accounts](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-wordpress-accounts) |
-| 04 | [WordPress Theme](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#5%EF%B8%8F%E2%83%A3---wordpress-theme) |
+| 05 | [WordPress Theme](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#5%EF%B8%8F%E2%83%A3---wordpress-theme) |
 |    | [Theme Name](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-theme-name) |
 |    | [Theme Folder](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-theme-folder) |
 |    | [Function's Prefix](https://github.com/abubakar-me/glide-design/tree/master/glide-nomenclature#-functions-prefix) |
