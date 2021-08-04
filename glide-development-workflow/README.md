@@ -407,7 +407,7 @@ Follow the steps below to fix the issue quickly.
 <br>
 <br>
 
-![12](../assets/images/11.png)
+![12](../assets/images/12.png)
 
 ## 🅾️ - Hotfix Release 2.0.1
 
