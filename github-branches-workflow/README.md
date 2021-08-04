@@ -42,6 +42,10 @@ This document also deals with all rules that have to be followed when working wi
 - In emergency situation only `hotfix branches` will be created from this branch to make emergency code edits
 
 <br>
+
+![Master Branch](../assets/images/master-branch.png)
+
+<br>
 <br>
 <br>
 <br>
@@ -63,6 +67,10 @@ This document also deals with all rules that have to be followed when working wi
 - This will branch out of `master branch` after initial project setup
 
 - `Release branches` will be created from this branch to release new theme versions
+
+<br>
+
+![Development Branch](../assets/images/development-branch.png)
 
 <br>
 <br>
@@ -92,6 +100,10 @@ This document also deals with all rules that have to be followed when working wi
 #### 👉 For Example 
 
 We have 5 new tickets, developer will create a `developer branch` and work on those 5 tickets in his branch. And when he is done, he will merge back into `development branch`.
+
+<br>
+
+![Developer Branch](../assets/images/developer-branch.png)
 
 <br>
 <br>
@@ -125,6 +137,10 @@ We have 5 new tickets, developer will create a `developer branch` and work on th
 We are ready for a new version release, we will create a `release branch` and update version number in this branch. Next, we will merge `release branch` into `master branch` and tag it with new version number. And lastly we will merge `release branch` into `development branch` to keep it as latest working copy.
 
 <br>
+
+![Release](../assets/images/release-branch.png)
+
+<br>
 <br>
 <br>
 <br>
@@ -156,38 +172,28 @@ We are ready for a new version release, we will create a `release branch` and up
 We have an emergency situation and we need to make quick fix, we will create a `hotfix branch` and update code in this branch. Next, we will merge `hotfix branch` into `master branch` and tag it with new version number. And lastly we will merge `hotfix branch` into `development branch` to keep it as latest working copy.
 
 <br>
+
+![Hotfix Branch](../assets/images/hotfix-branch.png)
+
+<br>
 <br>
 <br>
 <br>
 
 ![6](../assets/images/6.png)
 
-## 4️⃣ - Golden Rule - 🔺 Code Moves Up 🔻 Data Moves Down
+## 6️⃣ - Big Picture
 
 <br>
 
-The `top` layer is `production environment` that is live website for public view.
-
-The `middle` layer is `staging environment` that serves as bridge between other two.
-
-The `bottom` layer is `development environment` where we are developing the website.
+Lets put up everything in one big picture to visualize how the workflow wroks.
 
 <br>
 <br>
 
-![Golden Rule](../assets/images/golden-rule.png)
+![Github Branches](../assets/images/github-branches.png)
 
 <br>
-<br>
-
-The code will always move upwards from `development` to `staging` to `production environment`.
-
-The database will always move downwards from `production` to `staging` to `development environment`.
-
-Staging environment will always serve as bridge between the other two environments and all reviewing and testing will be done on staging environmnt.
-
-**✅ Never move database upwards from staging to production to avoid mishaps.**
-
 <br>
 <br>
 
