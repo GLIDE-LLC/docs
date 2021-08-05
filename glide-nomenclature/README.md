@@ -225,7 +225,7 @@ Follow these guidelines for naming WordPress accounts for different uses.
 
 - First name will be `Glide`
 
-- First name will be `Admin`
+- Last name will be `Admin`
 
 <br>
 
