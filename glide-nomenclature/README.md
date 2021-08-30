@@ -634,11 +634,11 @@ But if you are adding the Local WP site manually you need to follow the guidelin
 
 - Local WP site domain will be same as project name
 
-- It will be in lowercase lowercase and will have dashes instead of spaces
+- It will be in lowercase and will have dashes instead of spaces
 
 - Local WP site path will be same as project name
 
-- It will be in lowercase lowercase and will have dashes instead of spaces
+- It will be in lowercase and will have dashes instead of spaces
 
 <br>
 
@@ -722,7 +722,7 @@ Follow these guidelines for naming WordPress Theme and its components.
 
 - Theme folder will be same as project name
 
-- It will be in lowercase lowercase and will have dashes instead of spaces
+- It will be in lowercase and will have dashes instead of spaces
 
 <br>
 
