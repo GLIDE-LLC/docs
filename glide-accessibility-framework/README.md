@@ -39,9 +39,9 @@ This document breaks it down to the responsibility level, making it easier for e
 <br>
 <br>
 
-![2](../assets/images/2.png)
+![1](../assets/images/1.png)
 
-## 2️⃣ - Responsibilities of Project Managers
+## 1️⃣ - Responsibilities of Project Managers
 
 <br>
 
@@ -54,55 +54,15 @@ This document breaks it down to the responsibility level, making it easier for e
 - Provide meaningful alt text for all images
 
 - Provide captions for images if required
-  
-<br>
-
-### 📙 Links
-
-- Provide descriptive text for <a> tags
-
-- Provide descriptive titles for links
-  
-<br>
-	
-### 📙 Audio / Video
-
-- Provide a descriptive title attribute for audio / video
-
-- Provide audio descriptions, transcripts for audio / video
-
-- Provide captioning for audio / video
-  
-<br>
-
-### 📙 PDF
-
-- In addition to PDFs, also provide HTML, Word, and EPUB3 versions
-
-- Ensure that PDFs are properly tagged
-  
-<br>
-
-### 📙 Machine Readability
-
-- Use web technologies that are compatible with screen readers
-
-- Use HTML markup for any text content, don't use images
-
-- Use MathML for math content
-
-- Use Highcharts for graphs and charts
-
-- Use Able Player as a media player for video and audio content
 
 <br>
 <br>
 <br>
 <br>
 
-![3](../assets/images/3.png)
+![2](../assets/images/2.png)
 
-## 3️⃣ - Responsibilities of Designers
+## 2️⃣ - Responsibilities of Designers
 
 > ✔️ Designers should follow these guidelines when creating designs for Glide projects.
 
@@ -185,9 +145,9 @@ This document breaks it down to the responsibility level, making it easier for e
 <br>
 <br>
 
-![4](../assets/images/4.png)
+![3](../assets/images/3.png)
 
-## 4️⃣ - Responsibilities of Developers
+## 3️⃣ - Responsibilities of Developers
 
 <br>
 
@@ -386,9 +346,9 @@ This document breaks it down to the responsibility level, making it easier for e
 <br>
 <br>
 
-![1](../assets/images/1.png)
+![4](../assets/images/4.png)
 
-## 1️⃣ - Responsibilities of Client
+## 4️⃣ - Responsibilities of Client
 
 <br>
 
@@ -461,6 +421,10 @@ This document breaks it down to the responsibility level, making it easier for e
 
 - Use Able Player as a media player for video and audio content
 	
+<br>
+<br>
+<br>
+<br>
 	
 ![6](../assets/images/6.png)
 
@@ -479,10 +443,13 @@ This document breaks it down to the responsibility level, making it easier for e
 - Provide captions for images if required
   
 <br>
+<br>
+<br>
+<br>
 	
 ![7](../assets/images/7.png)
 
-## 7️⃣ - Resources
+## 7️⃣ - Accessibility Resources
 
 > ✔️ Designers should follow these guidelines when creating designs for Glide projects.
 
