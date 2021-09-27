@@ -406,27 +406,29 @@ Tool description goes here
 - [Contrast Checker](https://webaim.org/resources/contrastchecker/)
 Tool description goes here
 	
-- [Stark](https://www.getstark.co/)
+- [Stark](https://www.getstark.co/) <br>
 Tool description goes here
 
-- [Who Can Use](https://whocanuse.com/)
+- [Who Can Use](https://whocanuse.com/) <br>
 Tool description goes here
 
 <br>
 
 ### 📙 Tools For Developers
 
-- [Wave](https://wave.webaim.org/)
+- [Wave](https://wave.webaim.org/) <br>
 Tool description goes here
 
-- [Axe](https://www.deque.com/axe/)
+<br>
+
+- [Axe](https://www.deque.com/axe/) <br>
 Tool description goes here
 
 <br>
 
 ### 📙 Screen Readers
 
-- [JAWS](https://support.freedomscientific.com/Downloads/JAWS)
+- [JAWS](https://support.freedomscientific.com/Downloads/JAWS) <br>
 Tool description goes here
 
 - [NVDA](https://www.nvaccess.org/download/)
