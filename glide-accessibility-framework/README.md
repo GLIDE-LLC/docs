@@ -36,7 +36,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 ## 1️⃣ - Responsibilities of Designers
 
-> ✔️ This is live website, this is only meant for public view
+> ✔️ Designers should follow these guidelines when creating designs for Glide projects.
 
 <br>
 
@@ -123,7 +123,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-> ✔️ This is staging website to review changes and updates
+> ✔️ Developers should follow these guidelines when developing Glide projects.
 
 <br>
 
@@ -324,7 +324,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-> ✔️ This is development website to develop new code, this is meant for developers only
+> ✔️ Content editors should follow these guidelines when providing or adding content to Glide projects.
 
 <br>
 
