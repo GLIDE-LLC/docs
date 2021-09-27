@@ -31,66 +31,8 @@ This document breaks it down to the responsibility level, making it easier for e
 | 06 | [Responsibilities of Tester](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#3%EF%B8%8F%E2%83%A3---responsibilities-of-content-editors) |
 | 07 | [Resources & Tools](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#3%EF%B8%8F%E2%83%A3---responsibilities-of-content-editors) |
 
-<br>
-<br>
-<br>
-<br>
-
-![1](../assets/images/1.png)
-
-## 1️⃣ - Responsibilities of Client
-
-<br>
-
-> ✔️ Content editors should follow these guidelines when providing or adding content to Glide projects.
-
-<br>
-
-### 📙 Images
-
-- Provide meaningful alt text for all images
 
 - Provide captions for images if required
-  
-<br>
-
-### 📙 Links
-
-- Provide descriptive text for <a> tags
-
-- Provide descriptive titles for links
-  
-<br>
-	
-### 📙 Audio / Video
-
-- Provide a descriptive title attribute for audio / video
-
-- Provide audio descriptions, transcripts for audio / video
-
-- Provide captioning for audio / video
-  
-<br>
-
-### 📙 PDF
-
-- In addition to PDFs, also provide HTML, Word, and EPUB3 versions
-
-- Ensure that PDFs are properly tagged
-  
-<br>
-
-### 📙 Machine Readability
-
-- Use web technologies that are compatible with screen readers
-
-- Use HTML markup for any text content, don't use images
-
-- Use MathML for math content
-
-- Use Highcharts for graphs and charts
-
-- Use Able Player as a media player for video and audio content
 	
 <br>
 <br>
@@ -444,6 +386,25 @@ This document breaks it down to the responsibility level, making it easier for e
 <br>
 <br>
 
+![1](../assets/images/1.png)
+
+## 1️⃣ - Responsibilities of Client
+
+<br>
+
+> ✔️ Content editors should follow these guidelines when providing or adding content to Glide projects.
+
+<br>
+
+### 📙 Images
+
+- Provide meaningful alt text for all images
+
+<br>
+<br>
+<br>
+<br>
+
 ![5](../assets/images/5.png)
 
 ## 5️⃣ - Responsibilities of Content Editors
@@ -503,7 +464,7 @@ This document breaks it down to the responsibility level, making it easier for e
 	
 ![6](../assets/images/6.png)
 
-## 6️⃣ - Responsibilities of Content Editors
+## 6️⃣ - Responsibilities of Tester
 
 <br>
 
@@ -518,45 +479,6 @@ This document breaks it down to the responsibility level, making it easier for e
 - Provide captions for images if required
   
 <br>
-
-### 📙 Links
-
-- Provide descriptive text for <a> tags
-
-- Provide descriptive titles for links
-  
-<br>
-	
-### 📙 Audio / Video
-
-- Provide a descriptive title attribute for audio / video
-
-- Provide audio descriptions, transcripts for audio / video
-
-- Provide captioning for audio / video
-  
-<br>
-
-### 📙 PDF
-
-- In addition to PDFs, also provide HTML, Word, and EPUB3 versions
-
-- Ensure that PDFs are properly tagged
-  
-<br>
-
-### 📙 Machine Readability
-
-- Use web technologies that are compatible with screen readers
-
-- Use HTML markup for any text content, don't use images
-
-- Use MathML for math content
-
-- Use Highcharts for graphs and charts
-
-- Use Able Player as a media player for video and audio content
-
 	
 ![7](../assets/images/7.png)
 
