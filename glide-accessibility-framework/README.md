@@ -24,8 +24,8 @@ This document breaks it down to the responsibility level, making it easier for e
 | #  | Topics |
 |----|-------|
 | 01 | [Responsibilities of Project Manager](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#2%EF%B8%8F%E2%83%A3---responsibilities-of-developers) |
-| 02 | [Responsibilities of Designer](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#2%EF%B8%8F%E2%83%A3---responsibilities-of-developers) |
-| 03 | [Responsibilities of Developer](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#3%EF%B8%8F%E2%83%A3---responsibilities-of-content-editors) |
+| 02 | [Responsibilities of Designers](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#2%EF%B8%8F%E2%83%A3---responsibilities-of-developers) |
+| 03 | [Responsibilities of Developers](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#3%EF%B8%8F%E2%83%A3---responsibilities-of-content-editors) |
 | 04 | [Responsibilities of Client](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#1%EF%B8%8F%E2%83%A3---responsibilities-of-designers) |
 | 05 | [Responsibilities of Content Editor](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#3%EF%B8%8F%E2%83%A3---responsibilities-of-content-editors) |
 | 06 | [Responsibilities of Tester](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#3%EF%B8%8F%E2%83%A3---responsibilities-of-content-editors) |
@@ -41,7 +41,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 ![1](../assets/images/1.png)
 
-## 1️⃣ - Responsibilities of Project Managers
+## 1️⃣ - Responsibilities of Project Manager
 
 <br>
 
@@ -367,7 +367,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 ![5](../assets/images/5.png)
 
-## 5️⃣ - Responsibilities of Content Editors
+## 5️⃣ - Responsibilities of Content Editor
 
 <br>
 
