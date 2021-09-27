@@ -374,24 +374,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 ### 📙 PDF
 
-- In addition to PDFs, also provide HTML, Word, and EPUB3 versions
-
-- Ensure that PDFs are properly tagged
-  
-<br>
-
-### 📙 Machine Readability
-
-- Use web technologies that are compatible with screen readers
-
-- Use HTML markup for any text content, don't use images
-
-- Use MathML for math content
-
-- Use Highcharts for graphs and charts
-
-- Use Able Player as a media player for video and audio content
-
+- Provide HTML, Word, and EPUB3 versions of PDF files
 
 <br>
 <br>
@@ -410,17 +393,17 @@ This document breaks it down to the responsibility level, making it easier for e
 
 ### 📙 Images
 
-- Provide meaningful alt text for all images
+- Add alt text for all images
 
-- Provide captions for images if required
+- Add captions for images if required
   
 <br>
 
 ### 📙 Links
 
-- Provide descriptive text for <a> tags
+- Add descriptive text for <a> tags
 
-- Provide descriptive titles for links
+- Add descriptive titles for links
   
 <br>
 	
