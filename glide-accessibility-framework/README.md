@@ -17,7 +17,6 @@ Complete framework for ensuring **Accessibility** of Glide projects.
 This framework includes guidelines according to `WCAG 2.0` & `WCAG 2.1` `Level A`. These rules must be followed to make Glide projects accessible.
 
 This document breaks it down to the responsibility level, making it easier for everyone to implement overall accessibility framework.
-This docoment lists 
 
 <br>
 <br>
@@ -27,7 +26,6 @@ This docoment lists
 | 01 | [Responsibilities of Designers](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#1%EF%B8%8F%E2%83%A3---responsibilities-of-designers) |
 | 02 | [Responsibilities of Designers](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#2%EF%B8%8F%E2%83%A3---responsibilities-of-developers) |
 | 03 | [Responsibilities of Content Editors](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#3%EF%B8%8F%E2%83%A3---responsibilities-of-content-editors) |
-
 
 <br>
 <br>
