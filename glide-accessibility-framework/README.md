@@ -8,7 +8,7 @@
 <br>
 <br>
 
-# WP Engine Environments Workflow
+# Glide Accessibility Framework
 
 <br>
 
@@ -36,7 +36,7 @@ This document also deals with all rules that have to be followed when working wi
 
 ![1](../assets/images/1.png)
 
-## 1️⃣ - Production Environment
+## 1️⃣ - Responsibilities of Designers
 
 <br>
 
@@ -55,7 +55,7 @@ This document also deals with all rules that have to be followed when working wi
 
 ![2](../assets/images/2.png)
 
-## 2️⃣ - Staging Environment
+## 2️⃣ - Responsibilities of Developers
 
 <br>
 
@@ -80,7 +80,7 @@ This document also deals with all rules that have to be followed when working wi
 
 ![3](../assets/images/3.png)
 
-## 3️⃣ - Development Environment
+## 3️⃣ - Responsibilities of Content Editors
 
 <br>
 
