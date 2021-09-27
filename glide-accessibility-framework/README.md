@@ -32,8 +32,6 @@ This document breaks it down to the responsibility level, making it easier for e
 | 07 | [Accessibility Tools & Resources](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#3%EF%B8%8F%E2%83%A3---responsibilities-of-content-editors) |
 
 
-- Provide captions for images if required
-	
 <br>
 <br>
 <br>
@@ -358,7 +356,42 @@ This document breaks it down to the responsibility level, making it easier for e
 
 ### 📙 Images
 
-- Provide meaningful alt text for all images
+- Provide alt text for images
+
+- Provide captions for images
+
+> ✔️ Usually content editors will take care of this but if there are specific requirements for SEO then client must provide these alt texts.
+
+<br>
+
+### 📙 Audio / Video
+
+- Provide descriptions and transcripts for audio / video
+
+- Provide captioning for audio / video
+
+<br>
+
+### 📙 PDF
+
+- In addition to PDFs, also provide HTML, Word, and EPUB3 versions
+
+- Ensure that PDFs are properly tagged
+  
+<br>
+
+### 📙 Machine Readability
+
+- Use web technologies that are compatible with screen readers
+
+- Use HTML markup for any text content, don't use images
+
+- Use MathML for math content
+
+- Use Highcharts for graphs and charts
+
+- Use Able Player as a media player for video and audio content
+
 
 <br>
 <br>
