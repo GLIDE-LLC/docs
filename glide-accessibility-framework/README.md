@@ -14,7 +14,7 @@
 
 Complete framework for ensuring **Accessibility** of Glide projects.
 
-This framework includes guidelines according to `WCAG 2.0` & `WCAG 2.1` `Level A`. These rules must be followed to make Glide projects accessible.
+This framework includes guidelines according to `WCAG 2.0` & `WCAG 2.1` - `Level A`. These rules must be followed to make Glide projects accessible.
 
 This document breaks it down to the responsibility level, making it easier for everyone involved in a project to implement accessibility guidelines.
 
@@ -373,6 +373,64 @@ This document breaks it down to the responsibility level, making it easier for e
 - Use Highcharts for graphs and charts
 
 - Use Able Player as a media player for video and audio content
+
+	
+![4](../assets/images/4.png)
+
+## 4️⃣ - Resources
+
+> ✔️ Designers should follow these guidelines when creating designs for Glide projects.
+
+<br>
+
+### 📙 W3C Guidelines
+
+- [WCAG 2.0](https://www.w3.org/TR/WCAG20/)
+Tool description goes here
+
+- [WCAG 2.1](https://www.w3.org/TR/WCAG21/)
+Tool description goes here
+
+- [Techniques for WCAG 2.0](https://www.w3.org/WAI/WCAG20/Techniques/)
+Tool description goes here
+
+- [Techniques for WCAG 2.1](https://www.w3.org/WAI/WCAG21/Techniques/)
+Tool description goes here
+
+- [Quick Reference](https://www.w3.org/WAI/WCAG21/quickref/)
+Tool description goes here
+<br>
+
+### 📙 Tools For Designers
+
+- [Contrast Checker](https://webaim.org/resources/contrastchecker/)
+Tool description goes here
+	
+- [Stark](https://www.getstark.co/)
+Tool description goes here
+
+- [Who Can Use](https://whocanuse.com/)
+Tool description goes here
+
+<br>
+
+### 📙 Tools For Developers
+
+- [Wave](https://wave.webaim.org/)
+Tool description goes here
+
+- [Axe](https://www.deque.com/axe/)
+Tool description goes here
+
+<br>
+
+### 📙 Screen Readers
+
+- [JAWS](https://support.freedomscientific.com/Downloads/JAWS)
+Tool description goes here
+
+- [NVDA](https://www.nvaccess.org/download/)
+Tool description goes here
 
 <br>
 <br>
