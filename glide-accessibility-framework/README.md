@@ -24,10 +24,11 @@ This document breaks it down to the responsibility level, making it easier for e
 | #  | Topics |
 |----|-------|
 | 01 | [Responsibilities of Client](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#1%EF%B8%8F%E2%83%A3---responsibilities-of-designers) |
-| 02 | [Responsibilities of Designers](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#2%EF%B8%8F%E2%83%A3---responsibilities-of-developers) |
-| 03 | [Responsibilities of Developers](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#3%EF%B8%8F%E2%83%A3---responsibilities-of-content-editors) |
-| 04 | [Responsibilities of Content Editors](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#3%EF%B8%8F%E2%83%A3---responsibilities-of-content-editors) |
-| 05 | [Resources](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#3%EF%B8%8F%E2%83%A3---responsibilities-of-content-editors) |
+| 02 | [Responsibilities of Project Managers](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#2%EF%B8%8F%E2%83%A3---responsibilities-of-developers) |
+| 03 | [Responsibilities of Designers](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#2%EF%B8%8F%E2%83%A3---responsibilities-of-developers) |
+| 04 | [Responsibilities of Developers](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#3%EF%B8%8F%E2%83%A3---responsibilities-of-content-editors) |
+| 05 | [Responsibilities of Content Editors](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#3%EF%B8%8F%E2%83%A3---responsibilities-of-content-editors) |
+| 06 | [Resources & Tools](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#3%EF%B8%8F%E2%83%A3---responsibilities-of-content-editors) |
 
 <br>
 <br>
@@ -89,7 +90,7 @@ This document breaks it down to the responsibility level, making it easier for e
 - Use Highcharts for graphs and charts
 
 - Use Able Player as a media player for video and audio content
-
+	
 <br>
 <br>
 <br>
@@ -97,7 +98,68 @@ This document breaks it down to the responsibility level, making it easier for e
 
 ![2](../assets/images/2.png)
 
-## 2️⃣ - Responsibilities of Designers
+## 2️⃣ - Responsibilities of Project Managers
+
+<br>
+
+> ✔️ Content editors should follow these guidelines when providing or adding content to Glide projects.
+
+<br>
+
+### 📙 Images
+
+- Provide meaningful alt text for all images
+
+- Provide captions for images if required
+  
+<br>
+
+### 📙 Links
+
+- Provide descriptive text for <a> tags
+
+- Provide descriptive titles for links
+  
+<br>
+	
+### 📙 Audio / Video
+
+- Provide a descriptive title attribute for audio / video
+
+- Provide audio descriptions, transcripts for audio / video
+
+- Provide captioning for audio / video
+  
+<br>
+
+### 📙 PDF
+
+- In addition to PDFs, also provide HTML, Word, and EPUB3 versions
+
+- Ensure that PDFs are properly tagged
+  
+<br>
+
+### 📙 Machine Readability
+
+- Use web technologies that are compatible with screen readers
+
+- Use HTML markup for any text content, don't use images
+
+- Use MathML for math content
+
+- Use Highcharts for graphs and charts
+
+- Use Able Player as a media player for video and audio content
+
+<br>
+<br>
+<br>
+<br>
+
+![3](../assets/images/3.png)
+
+## 3️⃣ - Responsibilities of Designers
 
 > ✔️ Designers should follow these guidelines when creating designs for Glide projects.
 
@@ -180,9 +242,9 @@ This document breaks it down to the responsibility level, making it easier for e
 <br>
 <br>
 
-![3](../assets/images/3.png)
+![4](../assets/images/4.png)
 
-## 3️⃣ - Responsibilities of Developers
+## 4️⃣ - Responsibilities of Developers
 
 <br>
 
@@ -381,9 +443,66 @@ This document breaks it down to the responsibility level, making it easier for e
 <br>
 <br>
 
-![4](../assets/images/4.png)
+![5](../assets/images/5.png)
 
-## 4️⃣ - Responsibilities of Content Editors
+## 5️⃣ - Responsibilities of Content Editors
+
+<br>
+
+> ✔️ Content editors should follow these guidelines when providing or adding content to Glide projects.
+
+<br>
+
+### 📙 Images
+
+- Provide meaningful alt text for all images
+
+- Provide captions for images if required
+  
+<br>
+
+### 📙 Links
+
+- Provide descriptive text for <a> tags
+
+- Provide descriptive titles for links
+  
+<br>
+	
+### 📙 Audio / Video
+
+- Provide a descriptive title attribute for audio / video
+
+- Provide audio descriptions, transcripts for audio / video
+
+- Provide captioning for audio / video
+  
+<br>
+
+### 📙 PDF
+
+- In addition to PDFs, also provide HTML, Word, and EPUB3 versions
+
+- Ensure that PDFs are properly tagged
+  
+<br>
+
+### 📙 Machine Readability
+
+- Use web technologies that are compatible with screen readers
+
+- Use HTML markup for any text content, don't use images
+
+- Use MathML for math content
+
+- Use Highcharts for graphs and charts
+
+- Use Able Player as a media player for video and audio content
+	
+	
+![6](../assets/images/6.png)
+
+## 6️⃣ - Responsibilities of Content Editors
 
 <br>
 
@@ -438,9 +557,9 @@ This document breaks it down to the responsibility level, making it easier for e
 - Use Able Player as a media player for video and audio content
 
 	
-![5](../assets/images/5.png)
+![7](../assets/images/7.png)
 
-## 5️⃣ - Resources
+## 7️⃣ - Resources
 
 > ✔️ Designers should follow these guidelines when creating designs for Glide projects.
 
