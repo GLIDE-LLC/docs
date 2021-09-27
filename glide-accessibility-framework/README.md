@@ -23,10 +23,9 @@ This document also deals with all rules that have to be followed when working wi
 
 | #  | Topics |
 |----|-------|
-| 01 | [Production Environment](https://github.com/abubakar-me/glide-design/tree/master/wpengine-environments-workflow#1%EF%B8%8F%E2%83%A3---production-environment) |
-| 02 | [Staging Environment](https://github.com/abubakar-me/glide-design/tree/master/wpengine-environments-workflow#2%EF%B8%8F%E2%83%A3---staging-environment) |
-| 03 | [Development Environment](https://github.com/abubakar-me/glide-design/tree/master/wpengine-environments-workflow#3%EF%B8%8F%E2%83%A3---development-environment) |
-| 04 | [Golden Rule](https://github.com/abubakar-me/glide-design/tree/master/wpengine-environments-workflow#4%EF%B8%8F%E2%83%A3---golden-rule----code-moves-up--data-moves-down) |
+| 01 | [Responsibilities of Designers](https://github.com/abubakar-me/glide-design/tree/master/wpengine-environments-workflow#1%EF%B8%8F%E2%83%A3---production-environment) |
+| 02 | [Responsibilities of Designers](https://github.com/abubakar-me/glide-design/tree/master/wpengine-environments-workflow#2%EF%B8%8F%E2%83%A3---staging-environment) |
+| 03 | [Responsibilities of Content Editors](https://github.com/abubakar-me/glide-design/tree/master/wpengine-environments-workflow#3%EF%B8%8F%E2%83%A3---development-environment) |
 
 
 <br>
@@ -64,7 +63,7 @@ This document also deals with all rules that have to be followed when working wi
 
 - Do not rely solely on color to identify links
 
-- If only color is used to distinghuish links, provide high contrast of at least 3:1 ratio
+- If only color is used to distinghuish links, provide high contrast of at least `3:1` ratio
 
 <br>
 
@@ -74,7 +73,7 @@ This document also deals with all rules that have to be followed when working wi
 
 - Do not use only shapes and designs to convey important information
 
-- Ensure foreground vs. background contrast ratio is at least 4.5:1
+- Ensure `foreground` vs. `background` contrast ratio is at least `4.5:1`
 
 <br>
 
@@ -135,9 +134,9 @@ This document also deals with all rules that have to be followed when working wi
 
 - Nest elements according to their specifications
 
-- Do not add duplicate attributes to elements / tags
+- Do not add duplicate attributes to elements
 
-- Use unique IDs for elements / tags
+- Use unique IDs for elements
 
 - Pass W3C HTML validation test
 
@@ -149,13 +148,13 @@ This document also deals with all rules that have to be followed when working wi
 
 - Use proper HTML markup for different content types
 
-- Use only one <h1> per page 
+- Use only one `<h1>` per page 
 
-- Hierarchically order heading tags (<h1>,<h2>,<h3>)
+- Hierarchically order heading tags `<h1>` `<h2>` `<h3>`
 
 - Do not use tables for positional layout
 
-- Use <ul> and <ol> list tags for content lists
+- Use `<ul>` and `<ol>` list tags for content lists
 
 - Use logical tabbing order for the page elements
 
@@ -166,7 +165,8 @@ This document also deals with all rules that have to be followed when working wi
 ### 📙 Page Title
 
 - Add descriptive & unique meta title on every page
-- Use <page name> - <site name> format for page title
+
+- Use `<page name> - <site name>` format for page title
 
 <br>
 
@@ -174,9 +174,9 @@ This document also deals with all rules that have to be followed when working wi
 
 - Add labels for all input fields
 
-- Group related form inputs with <fieldset> tag
+- Group related form inputs with `<fieldset>` tag
 
-- Add description for fieldsets with <legend> tag
+- Add description for fieldsets with `<legend>` tag
 
 - Clearly identify required fields
 
@@ -196,13 +196,13 @@ This document also deals with all rules that have to be followed when working wi
 
 - Do not use only color to identify errors
 
-- Use ARIA to connect the input field and the error message
+- Use `ARIA` to connect the input field and the error message
 
 - Add aria-invalid=false attribute to the input field with error
 
-- Add aria-describedby="[id of element with error message]" attribute to the input field with error
+- Add `aria-describedby="[id of element with error message]"` attribute to the input field with error
 
-- Add role="alert" attribute to the element with the error message
+- Add `role="alert"` attribute to the element with the error message
 
 <br>
 
@@ -210,7 +210,7 @@ This document also deals with all rules that have to be followed when working wi
 
 - Use proper table markup for tabular content
 
-- Add scope attributes in tables <th scope="row/col">
+- Add scope attributes in tables `<th scope="row/col">`
 
 - Use colgroup and rowgroup scope for table headers
 
@@ -222,25 +222,25 @@ This document also deals with all rules that have to be followed when working wi
 
 - Use image tag only for displaying meaningful content images
 
-- Add alt text to all image tags
+- Provide a method to add alt text to `<img>` tags
 
-- Decorative images should have "null" as alt text
+- Decorative images should have `"null"` as alt text
 
-- For on screen description of an image use <figcaption> tag
+- For on screen description of an image use `<figcaption>` tag
 
 <br>
 
 ### 📙 Links
 
-- Use <button> tag for elements that perform a function
+- Use `<button>` tag for elements that perform a function
 
-- Use <a> tag for elements that load new page
+- Use `<a>` tag for elements that load new page
 
 - Add taget attribute to links for description purpose
 
 - Use progressive enhancement for opening links in new window
 
-- Add tab index to clickable <div> or wrap it with <a> tag
+- Add tab index to clickable `<div>` or wrap it with `<a>` tag
 
 <br>
 
@@ -276,7 +276,7 @@ This document also deals with all rules that have to be followed when working wi
 
 ### 📙 Zoomability
 
-- Ensure that users can enlarge browser text upto 200% without breaking the page functionality
+- Ensure that users can enlarge browser text upto `200%` without breaking the page functionality
 
 <br>
 
@@ -298,33 +298,21 @@ This document also deals with all rules that have to be followed when working wi
 
 ### 📙 ARIA
 
-- Prefer use of standard HTML elements over custom ARIA elements
+- Prefer use of standard HTML elements over custom `ARIA` elements
 
-- Correctly apply ARIA attributes on the right elements
+- Correctly apply `ARIA` attributes on the right elements
 
-- No ARIA is better than bad ARIA
+- No `ARIA` is better than bad `ARIA`
   
 <br>
 
 ### 📙 Audio / Video
 
-- Provide media controls
+- Provide Audio / Video media controls
 
 - Provide method to add titles
 
 - Provide method to add descriptions and transcripts
-  
-<br>
-
-- `Staging environment` will serve as bridge between `development environment` and `production environment`
-
-- Whenever we need to do new set of updates we can copy data from `production environment`
-
-- When updates are done, Code will be pushed from `development environment` to `staging environment`
-
-- When this is ready to go live we can push code to `production environment`
-
-- Staging data will never get pushed upwards to `production environment`, only if we are going live for first time
 
 <br>
 <br>
@@ -386,28 +374,6 @@ This document also deals with all rules that have to be followed when working wi
 - Use Highcharts for graphs and charts
 
 - Use Able Player as a media player for video and audio content
-
-<br>
-<br>
-<br>
-<br>
-
-![4](../assets/images/4.png)
-
-## 4️⃣ - Golden Rule - 🔺 Code Moves Up 🔻 Data Moves Down
-
-<br>
-
-The `top` layer is `production environment` that is live website for public view.
-
-The `middle` layer is `staging environment` that serves as bridge between other two.
-
-The `bottom` layer is `development environment` where we are developing the website.
-
-<br>
-<br>
-
-![Golden Rule](../assets/images/golden-rule.png)
 
 <br>
 <br>
