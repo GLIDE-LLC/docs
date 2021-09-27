@@ -23,9 +23,9 @@ This document also deals with all rules that have to be followed when working wi
 
 | #  | Topics |
 |----|-------|
-| 01 | [Responsibilities of Designers](https://github.com/abubakar-me/glide-design/tree/master/wpengine-environments-workflow#1%EF%B8%8F%E2%83%A3---production-environment) |
-| 02 | [Responsibilities of Designers](https://github.com/abubakar-me/glide-design/tree/master/wpengine-environments-workflow#2%EF%B8%8F%E2%83%A3---staging-environment) |
-| 03 | [Responsibilities of Content Editors](https://github.com/abubakar-me/glide-design/tree/master/wpengine-environments-workflow#3%EF%B8%8F%E2%83%A3---development-environment) |
+| 01 | [Responsibilities of Designers](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#1%EF%B8%8F%E2%83%A3---responsibilities-of-designers) |
+| 02 | [Responsibilities of Designers](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#2%EF%B8%8F%E2%83%A3---responsibilities-of-developers) |
+| 03 | [Responsibilities of Content Editors](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#3%EF%B8%8F%E2%83%A3---responsibilities-of-content-editors) |
 
 
 <br>
