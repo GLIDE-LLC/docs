@@ -386,52 +386,63 @@ This document breaks it down to the responsibility level, making it easier for e
 ### 📙 W3C Guidelines
 
 - [WCAG 2.0](https://www.w3.org/TR/WCAG20/)
+<br>
 Tool description goes here
 
 - [WCAG 2.1](https://www.w3.org/TR/WCAG21/)
+<br>
 Tool description goes here
 
 - [Techniques for WCAG 2.0](https://www.w3.org/WAI/WCAG20/Techniques/)
+<br>
 Tool description goes here
 
 - [Techniques for WCAG 2.1](https://www.w3.org/WAI/WCAG21/Techniques/)
+<br>
 Tool description goes here
 
 - [Quick Reference](https://www.w3.org/WAI/WCAG21/quickref/)
+<br>
 Tool description goes here
+
 <br>
 
 ### 📙 Tools For Designers
 
-- [Contrast Checker](https://webaim.org/resources/contrastchecker/)
+- [Contrast Checker](https://webaim.org/resources/contrastchecker/) 
+<br>
 Tool description goes here
 	
-- [Stark](https://www.getstark.co/) <br>
+- [Stark](https://www.getstark.co/)
+<br>
 Tool description goes here
 
-- [Who Can Use](https://whocanuse.com/) <br>
+- [Who Can Use](https://whocanuse.com/)
+<br>
 Tool description goes here
 
 <br>
 
 ### 📙 Tools For Developers
 
-- [Wave](https://wave.webaim.org/) <br>
+- [Wave](https://wave.webaim.org/)
+<br>
 Tool description goes here
 
+- [Axe](https://www.deque.com/axe/)
 <br>
-
-- [Axe](https://www.deque.com/axe/) <br>
 Tool description goes here
 
 <br>
 
 ### 📙 Screen Readers
 
-- [JAWS](https://support.freedomscientific.com/Downloads/JAWS) <br>
+- [JAWS](https://support.freedomscientific.com/Downloads/JAWS)
+<br>
 Tool description goes here
 
 - [NVDA](https://www.nvaccess.org/download/)
+<br>
 Tool description goes here
 
 <br>
