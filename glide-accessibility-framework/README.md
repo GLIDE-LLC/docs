@@ -360,7 +360,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 - Provide captions for images (if needed)
 
-> ✔️ Usually content editors will take care of this but if there are specific requirements for SEO then client must provide these alt texts.
+> Usually content editors will take care of this but if there are specific requirements for SEO then client must provide these alt texts.
 
 <br>
 
@@ -409,11 +409,11 @@ This document breaks it down to the responsibility level, making it easier for e
 	
 ### 📙 Audio / Video
 
-- Provide a descriptive title attribute for audio / video
+- Add descriptive title attribute for audio / video
 
-- Provide audio descriptions, transcripts for audio / video
+- Add audio descriptions, transcripts for audio / video
 
-- Provide captioning for audio / video
+- Add captioning for audio / video
   
 <br>
 
