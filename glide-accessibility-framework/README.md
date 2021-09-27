@@ -29,7 +29,7 @@ This document breaks it down to the responsibility level, making it easier for e
 | 04 | [Responsibilities of Client](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#1%EF%B8%8F%E2%83%A3---responsibilities-of-designers) |
 | 05 | [Responsibilities of Content Editor](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#3%EF%B8%8F%E2%83%A3---responsibilities-of-content-editors) |
 | 06 | [Responsibilities of Tester](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#3%EF%B8%8F%E2%83%A3---responsibilities-of-content-editors) |
-| 07 | [Resources & Tools](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#3%EF%B8%8F%E2%83%A3---responsibilities-of-content-editors) |
+| 07 | [Accessibility Tools & Resources](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#3%EF%B8%8F%E2%83%A3---responsibilities-of-content-editors) |
 
 
 - Provide captions for images if required
@@ -449,7 +449,7 @@ This document breaks it down to the responsibility level, making it easier for e
 	
 ![7](../assets/images/7.png)
 
-## 7️⃣ - Accessibility Resources
+## 7️⃣ - Accessibility Tools & Resources
 
 > ✔️ Designers should follow these guidelines when creating designs for Glide projects.
 
