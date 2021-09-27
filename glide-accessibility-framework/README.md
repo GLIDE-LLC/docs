@@ -430,8 +430,7 @@ Tool description goes here
 - [JAWS](https://support.freedomscientific.com/Downloads/JAWS) <br>
 Tool description goes here
 
-- [NVDA](https://www.nvaccess.org/download/)
-<br>
+- [NVDA](https://www.nvaccess.org/download/) <br>
 Tool description goes here
 
 <br>
