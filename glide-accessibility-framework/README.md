@@ -356,9 +356,9 @@ This document breaks it down to the responsibility level, making it easier for e
 
 ### 📙 Images
 
-- Provide alt text for images
+- Provide alt text for images (if needed)
 
-- Provide captions for images
+- Provide captions for images (if needed)
 
 > ✔️ Usually content editors will take care of this but if there are specific requirements for SEO then client must provide these alt texts.
 
@@ -366,9 +366,9 @@ This document breaks it down to the responsibility level, making it easier for e
 
 ### 📙 Audio / Video
 
-- Provide descriptions and transcripts for audio / video
+- Provide descriptions and transcripts for audio / video resources
 
-- Provide captioning for audio / video
+- Provide captions for audio / video (if needed)
 
 <br>
 
