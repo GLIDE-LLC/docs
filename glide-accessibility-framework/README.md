@@ -74,7 +74,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-### 📙 Links
+### 📕 Links
 
 - Ensure the link text describes the destination
 
@@ -92,7 +92,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-### 📙 Color & Contrast
+### 📗 Color & Contrast
 
 - Do not use only color to convey important information
 
@@ -102,7 +102,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-### 📙 Page Layout
+### 📘 Page Layout
 
 - Avoid complex page layouts
 
@@ -134,7 +134,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-### 📙 Tables
+### 📕 Tables
 
 - Add table headers to tabular content
 
@@ -167,7 +167,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-### 📙 HTML Structure
+### 📕 HTML Structure
 
 - Add language tag on every page
 
@@ -187,7 +187,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-### 📙 Page Title
+### 📗 Page Title
 
 - Add descriptive & unique meta title on every page
 
@@ -195,7 +195,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-### 📙 Forms
+### 📘 Forms
 
 - Add labels for all input fields
 
@@ -241,7 +241,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-### 📙 Images
+### 📕 Images
 
 - Use CSS methods for displaying decorative images
 
@@ -255,7 +255,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-### 📙 Links
+### 📗 Links
 
 - Use `<button>` tag for elements that perform a function
 
@@ -269,7 +269,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-### 📙 Navigation
+### 📘 Navigation
 
 - Use unordered list markup for menu items
 
@@ -299,19 +299,19 @@ This document breaks it down to the responsibility level, making it easier for e
   
 <br>
 
-### 📙 Zoomability
+### 📕 Zoomability
 
 - Ensure that users can enlarge browser text upto `200%` without breaking the page functionality
 
 <br>
 
-### 📙 Errors
+### 📗 Errors
 
 - Properly style and mark error messages
   
 <br>
 
-### 📙 Dynamic Content
+### 📘 Dynamic Content
 
 - If an element shows new content, ensure that the content follows the activating element in the DOM
 
@@ -331,7 +331,7 @@ This document breaks it down to the responsibility level, making it easier for e
   
 <br>
 
-### 📙 Audio / Video
+### 📕 Audio / Video
 
 - Provide Audio / Video media controls
 
