@@ -537,9 +537,11 @@ This document breaks it down to the responsibility level, making it easier for e
 	
 👉 Manual Testing
 
-	Group guidelines into themes. All guidelines in a single theme can then be tested at the same time.
+Group guidelines into themes. All guidelines in a single theme can then be tested at the same time.
 
-	The following themes should always be tested:
+	 
+	 
+	 The following themes should always be tested:
 	
 	 ▪️  Logical order and structure
 	 
@@ -555,9 +557,8 @@ This document breaks it down to the responsibility level, making it easier for e
 	
 	 ▪️  Colors
 
-	 
-	Following themes need to be tested only if those elements are present:
-
+ 
+	 Following themes need to be tested only if those elements are present:
 	 
 	 ▪️  Audio, video and animation
 	 
@@ -630,21 +631,6 @@ Tool description goes here
 Tool description goes here
 
 <br>
-<br>
-
-The code will always move upwards from `development` to `staging` to `production environment`.
-
-The database will always move downwards from `production` to `staging` to `development environment`.
-
-Staging environment will always serve as bridge between the other two environments and all reviewing and testing will be done on staging environmnt.
-
-**✅ Never move database upwards from staging to production to avoid mishaps.**
-
-<br>
-<br>
-
-Happy Coding!
-
 <br>
 
 **Prepared by:**
