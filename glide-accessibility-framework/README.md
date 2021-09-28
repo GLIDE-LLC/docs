@@ -645,6 +645,11 @@ Free, open-source screen reader software
 
 <br>
 <br>
+<br>
+
+Happy Accessibility!
+
+<br>
 
 **Prepared by:**
 Muhammad AbuBakar
