@@ -19,6 +19,12 @@ This framework includes guidelines according to `WCAG 2.0` & `WCAG 2.1` - `Level
 This document breaks it down to the responsibility level, making it easier for everyone involved in a project to achieve accessibility compliance.
 
 <br>
+
+#### Rule for Success
+
+⚠️ Its important that we start discussing accessibility with our clients at start of projects. This is not something to consider while project is already in review phase.
+
+<br>
 <br>
 
 | #  | Topics |
@@ -629,6 +635,13 @@ Most used screen reader software
 
 - [NVDA](https://www.nvaccess.org/download/) <br>
 Free, open-source screen reader software
+
+<br>
+<br>
+<br>
+<br>
+	
+⚠️ Its critical that all project team members follow these guidelines according to their role to ensure accessibility compliance.
 
 <br>
 <br>
