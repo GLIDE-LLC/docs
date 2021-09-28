@@ -49,58 +49,66 @@ This document breaks it down to the responsibility level, making it easier for e
 
 👉 Guide client on accessibility standards
 	
-		- WCAG 2.0
+	  
+	 ▪️  WCAG 2.0
 	
-		- WCAG 2.1
+	 ▪️  WCAG 2.1
 	
-		- Level A
+	 ▪️  Level A
 	
-		- Level AA
+	 ▪️  Level AA
 	
-		- Level AAA
+	 ▪️  Level AAA
 	
-		- ADA
-
-		- Section 508
-
+	 ▪️  ADA
+	
+	 ▪️  Section 508
+	  
+	
 <br>
 
 👉 Guide client on accessibility compliance
-	
-		- WCAG Compliance
-	
-		- ADA Compliance
-	
-		- Section 508 Compliance
 
+	 
+	 ▪️  WCAG Compliance
+	
+	 ▪️  ADA Compliance
+	
+	 ▪️  Section 508 Compliance
+	  
+	  
 <br>
 
 👉 Guide client on benefits of accessibility compliance
 	
-		- Avoid accessibility lawsuits and legal complications
+	  
+	 ▪️  Avoid accessibility lawsuits and legal complications
 	
-		- Avoid discrimination and open your webste to everyone
+	 ▪️  Avoid discrimination and open your webste to everyone
 	
-		- Boost brand perception and build positive public relations
+	 ▪️  Boost brand perception and build positive public relations
 	
-		- Improved usability for all types of users
+	 ▪️  Improved usability for all types of users
 	
-		- Broaden market penetration
+	 ▪️  Broaden market penetration
 	
-		- Better search engine optimization
-
+	 ▪️  Better search engine optimization
+	  
+	  
 <br>
 
 👉 Guide client on the needs for accessibility compliance
-
-		- 38.3 million Americans had a severe disability in July 2012
+	  
+	  
+	 ▪️  38.3 million Americans had a severe disability in July 2012
 	
-		- Lawsuites against websites increased from 814 in 2017 to 2258 in 2018
+	 ▪️  Lawsuites against websites increased from 814 in 2017 to 2258 in 2018
 	
-		- 20% of people in US have reading difficulties
+	 ▪️  20% of people in US have reading difficulties
 
-		- 7% of worling age adults have a severe dexterity difficulty
-
+	 ▪️  7% of worling age adults have a severe dexterity difficulty
+	  
+	  
 <br>
 
 👉 Set clear expectations and accessibility goals with client
