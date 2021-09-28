@@ -518,12 +518,54 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-### 📙 Images
+👉 Testing with tools
+	 
+	 
+	 ▪️  Test website on Wave tool
+	  
+	 ▪️  Test website on Wave tool
+	 
+	 ▪️  Test website on Axe tool
+	 
+	 ▪️  Test website on W3C Validation tool
+	 
+	 ▪️  Test with screen reader software
+	 
+	
+<br>
+<br>
+	
+👉 Manual Testing
 
-- Provide meaningful alt text for all images
+	Group guidelines into themes. All guidelines in a single theme can then be tested at the same time.
 
-- Provide captions for images if required
-  
+	The following themes should always be tested:
+	
+	 ▪️  Logical order and structure
+	 
+	 ▪️  Keyboard accessibility
+	
+	 ▪️  Text lternatives
+	
+	 ▪️  Forms
+	
+	 ▪️  Links
+	
+	 ▪️  Images
+	
+	 ▪️  Colors
+
+	 
+	Following themes need to be tested only if those elements are present:
+
+	 
+	 ▪️  Audio, video and animation
+	 
+	 ▪️  Java, Flash and other plugins
+	 
+	 ▪️  Other: image maps, frames, time limits, blinking/flashing
+	 
+
 <br>
 <br>
 <br>
