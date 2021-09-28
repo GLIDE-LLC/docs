@@ -67,21 +67,21 @@ This document breaks it down to the responsibility level, making it easier for e
 
 - Guide client on accessibility compliance
 	
-	- WCAG Compliance
+		- WCAG Compliance
 	
 	- ADA Compliance
 	
-	- Section 508 Compliance
+		- Section 508 Compliance
 
 <br>
 
 - Guide client on benefits of accessibility compliance
 	
-	- Avoid accessibility lawsuits and legal complications
+		- Avoid accessibility lawsuits and legal complications
 	
 	- Avoid discrimination and open your webste to everyone
 	
-	- Boost brand perception and build positive public relations
+		- Boost brand perception and build positive public relations
 	
 	- Improved usability for all types of users
 	
