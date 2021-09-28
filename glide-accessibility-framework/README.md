@@ -43,7 +43,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-> ✔️ Content editors should follow these guidelines when providing or adding content to Glide projects.
+> ✔️ Project managers should follow this process and convey everything clearly to client.
 
 <br>
 
@@ -416,7 +416,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-> ✔️ Content editors should follow these guidelines when providing or adding content to Glide projects.
+> ✔️ Get following content pieces and resources from client.
 
 <br>
 
@@ -453,7 +453,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-> ✔️ Content editors should follow these guidelines when providing or adding content to Glide projects.
+> ✔️ Content editors should follow these guidelines when adding content to Glide projects.
 
 <br>
 
@@ -514,7 +514,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-> ✔️ Content editors should follow these guidelines when providing or adding content to Glide projects.
+> ✔️ Testers should follow these guidelines when testing website accessibility.
 
 <br>
 
@@ -576,7 +576,7 @@ Group guidelines into themes. All guidelines in a single theme can then be teste
 
 ## 7️⃣ - Accessibility Tools & Resources
 
-> ✔️ Designers should follow these guidelines when creating designs for Glide projects.
+> ✔️ Useful resources for everyone on team.
 
 <br>
 
