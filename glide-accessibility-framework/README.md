@@ -47,7 +47,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-- Guide client on accessibility standards
+👉 Guide client on accessibility standards
 	
 		- WCAG 2.0
 	
@@ -65,7 +65,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-- Guide client on accessibility compliance
+👉 Guide client on accessibility compliance
 	
 		- WCAG Compliance
 	
@@ -75,7 +75,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-- Guide client on benefits of accessibility compliance
+👉 Guide client on benefits of accessibility compliance
 	
 		- Avoid accessibility lawsuits and legal complications
 	
@@ -91,7 +91,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-- Guide client on the needs for accessibility compliance
+👉 Guide client on the needs for accessibility compliance
 
 		- 38.3 million Americans had a severe disability in July 2012
 	
@@ -103,11 +103,11 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-- Set clear expectations and accessibility goals with client
+👉 Set clear expectations and accessibility goals with client
 
 <br>
 
-- Convey accessibility goals to the design and development team
+👉 Convey accessibility goals to the design and development team
 
 <br>
 <br>
