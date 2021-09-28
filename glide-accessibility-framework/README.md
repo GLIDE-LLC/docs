@@ -583,19 +583,19 @@ Group guidelines into themes. All guidelines in a single theme can then be teste
 ### 📙 W3C Guidelines
 
 - [WCAG 2.0](https://www.w3.org/TR/WCAG20/) <br>
-Tool description goes here
+Web Content Accessibility Guidelines 2.0
 
 - [WCAG 2.1](https://www.w3.org/TR/WCAG21/) <br>
-Tool description goes here
+Web Content Accessibility Guidelines 2.1
 
 - [Techniques for WCAG 2.0](https://www.w3.org/WAI/WCAG20/Techniques/) <br>
-Tool description goes here
+Techniques to meet success criteria of WCAG 2.0
 
 - [Techniques for WCAG 2.1](https://www.w3.org/WAI/WCAG21/Techniques/) <br>
-Tool description goes here
+Techniques to meet success criteria of WCAG 2.1
 
 - [Quick Reference](https://www.w3.org/WAI/WCAG21/quickref/) <br>
-Tool description goes here
+Customizable quick reference to WCAG
 
 <br>
 
