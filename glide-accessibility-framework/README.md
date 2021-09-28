@@ -47,11 +47,57 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-### 📙 Images
+- Guide client on accessibility standards
+	
+	- WCAG 2.0
+	
+	- WCAG 2.1
+	
+	- Level A
+	
+	- Level AA
+	
+	- Level AAA
+	
+	- ADA
 
-- Provide meaningful alt text for all images
+	- Section 508
 
-- Provide captions for images if required
+- Guide client on accessibility compliance
+	
+	- WCAG Compliance
+	
+	- ADA Compliance
+	
+	- Section 508 Compliance
+
+- Guide client on benefits of accessibility compliance
+	
+	- Avoid accessibility lawsuits and legal complications
+	
+	- Avoid discrimination and open your webste to everyone
+	
+	- Boost brand perception and build positive public relations
+	
+	- Improved usability for all types of users
+	
+	- Broaden market penetration
+	
+	- Better search engine optimization
+
+- Guide client on the needs for accessibility compliance
+
+	- 38.3 million Americans had a severe disability in July 2012
+	
+	- Lawsuites against websites increased from 814 in 2017 to 2258 in 2018
+	
+	- 20% of people in US have reading difficulties
+
+	- 7% of worling age adults have a severe dexterity difficulty
+
+- Set clear expectations and accessibility goals with client
+
+- Convey accessibility goals to the design and development team
 
 <br>
 <br>
