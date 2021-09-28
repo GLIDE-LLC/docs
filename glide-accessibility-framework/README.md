@@ -119,6 +119,10 @@ This document breaks it down to the responsibility level, making it easier for e
 	  
 <br>
 
+👉 Agree upon a accessibility compliance level with the client
+
+<br>
+
 👉 Set clear expectations and accessibility goals with client
 
 <br>
