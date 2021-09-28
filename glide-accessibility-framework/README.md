@@ -297,7 +297,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-### 📙 Tables
+### 📕 Tables
 
 - Use proper table markup for tabular content
 
@@ -307,7 +307,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-### 📕 Images
+### 📗 Images
 
 - Use CSS methods for displaying decorative images
 
@@ -321,7 +321,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-### 📗 Links
+### 📘 Links
 
 - Use `<button>` tag for elements that perform a function
 
@@ -335,7 +335,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-### 📘 Navigation
+### 📙 Navigation
 
 - Use unordered list markup for menu items
 
@@ -349,7 +349,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-### 📙 Keyboard
+### 📕 Keyboard
 
 - Ensure that the page is keyboard accessible
 
@@ -365,19 +365,19 @@ This document breaks it down to the responsibility level, making it easier for e
   
 <br>
 
-### 📕 Zoomability
+### 📗 Zoomability
 
 - Ensure that users can enlarge browser text upto `200%` without breaking the page functionality
 
 <br>
 
-### 📗 Errors
+### 📘 Errors
 
 - Properly style and mark error messages
   
 <br>
 
-### 📘 Dynamic Content
+### 📙 Dynamic Content
 
 - If an element shows new content, ensure that the content follows the activating element in the DOM
 
@@ -387,7 +387,7 @@ This document breaks it down to the responsibility level, making it easier for e
   
 <br>
 
-### 📙 ARIA
+### 📕 ARIA
 
 - Prefer use of standard HTML elements over custom `ARIA` elements
 
@@ -397,7 +397,7 @@ This document breaks it down to the responsibility level, making it easier for e
   
 <br>
 
-### 📕 Audio / Video
+### 📗 Audio / Video
 
 - Provide Audio / Video media controls
 
@@ -430,7 +430,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-### 📙 Audio / Video
+### 📕 Audio / Video
 
 - Provide descriptions and transcripts for audio / video resources
 
@@ -438,7 +438,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-### 📙 PDF
+### 📗 PDF
 
 - Provide HTML, Word, and EPUB3 versions of PDF files
 
@@ -465,7 +465,7 @@ This document breaks it down to the responsibility level, making it easier for e
   
 <br>
 
-### 📙 Links
+### 📕 Links
 
 - Add descriptive text for <a> tags
 
@@ -473,7 +473,7 @@ This document breaks it down to the responsibility level, making it easier for e
   
 <br>
 	
-### 📙 Audio / Video
+### 📗 Audio / Video
 
 - Add descriptive title attribute for audio / video
 
@@ -483,7 +483,7 @@ This document breaks it down to the responsibility level, making it easier for e
   
 <br>
 
-### 📙 PDF
+### 📘 PDF
 
 - In addition to PDFs, also provide HTML, Word, and EPUB3 versions
 
@@ -599,7 +599,7 @@ Customizable quick reference to WCAG
 
 <br>
 
-### 📙 Tools For Designers
+### 📕 Tools For Designers
 
 - [Contrast Checker](https://webaim.org/resources/contrastchecker/)  <br>
 WebAIM color contrast checker
@@ -612,7 +612,7 @@ Who can use your color combinations?
 
 <br>
 
-### 📙 Tools For Developers
+### 📗 Tools For Developers
 
 - [Wave](https://wave.webaim.org/) <br>
 Web accessibility evaluation tool, available as a URL testing site
@@ -622,7 +622,7 @@ Accessibility toolkit for developers, available as a Developer Tools add-on
 
 <br>
 
-### 📙 Screen Readers
+### 📘 Screen Readers
 
 - [JAWS](https://support.freedomscientific.com/Downloads/JAWS) <br>
 Most used screen reader software
