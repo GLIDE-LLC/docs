@@ -100,6 +100,8 @@ This document breaks it down to the responsibility level, making it easier for e
 👉 Guide client on the needs for accessibility compliance
 	  
 	  
+	 ▪️  One in four people in the United States has a disability
+	 
 	 ▪️  38.3 million Americans had a severe disability in July 2012
 	
 	 ▪️  Lawsuites against websites increased from 814 in 2017 to 2258 in 2018
