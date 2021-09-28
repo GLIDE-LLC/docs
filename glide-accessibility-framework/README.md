@@ -16,7 +16,7 @@ Complete framework for ensuring **Accessibility** of Glide projects.
 
 This framework includes guidelines according to `WCAG 2.0` & `WCAG 2.1` - `Level A`. These rules must be followed to make Glide projects accessible.
 
-This document breaks it down to the responsibility level, making it easier for everyone involved in a project to implement accessibility guidelines.
+This document breaks it down to the responsibility level, making it easier for everyone involved in a project to achieve accessibility compliance.
 
 <br>
 <br>
