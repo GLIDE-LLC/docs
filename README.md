@@ -50,6 +50,14 @@ Purpose of these documents is to ensure that all developers across all teams fol
 ✔️ Github branches workflow for version control of Glide projects.
 
 <br>
+
+## [Glide Accessibility Framework](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework)
+
+<br>
+
+✔️ Framework for accessibility compliance of Glide projects.
+
+<br>
 <br>
 <br>
 
