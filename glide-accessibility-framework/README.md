@@ -49,19 +49,21 @@ This document breaks it down to the responsibility level, making it easier for e
 
 - Guide client on accessibility standards
 	
-	- WCAG 2.0
+		- WCAG 2.0
 	
-	- WCAG 2.1
+		- WCAG 2.1
 	
-	- Level A
+		- Level A
 	
-	- Level AA
+		- Level AA
 	
-	- Level AAA
+		- Level AAA
 	
-	- ADA
+		- ADA
 
-	- Section 508
+		- Section 508
+
+<br>
 
 - Guide client on accessibility compliance
 	
@@ -70,6 +72,8 @@ This document breaks it down to the responsibility level, making it easier for e
 	- ADA Compliance
 	
 	- Section 508 Compliance
+
+<br>
 
 - Guide client on benefits of accessibility compliance
 	
@@ -85,6 +89,8 @@ This document breaks it down to the responsibility level, making it easier for e
 	
 	- Better search engine optimization
 
+<br>
+
 - Guide client on the needs for accessibility compliance
 
 	- 38.3 million Americans had a severe disability in July 2012
@@ -95,7 +101,11 @@ This document breaks it down to the responsibility level, making it easier for e
 
 	- 7% of worling age adults have a severe dexterity difficulty
 
+<br>
+
 - Set clear expectations and accessibility goals with client
+
+<br>
 
 - Convey accessibility goals to the design and development team
 
