@@ -580,7 +580,7 @@ Group guidelines into themes. All guidelines in a single theme can then be teste
 
 <br>
 
-### 📙 W3C Guidelines
+### 📙 WCAG Guidelines
 
 - [WCAG 2.0](https://www.w3.org/TR/WCAG20/) <br>
 Web Content Accessibility Guidelines 2.0
@@ -602,33 +602,33 @@ Customizable quick reference to WCAG
 ### 📙 Tools For Designers
 
 - [Contrast Checker](https://webaim.org/resources/contrastchecker/)  <br>
-Tool description goes here
+WebAIM color contrast checker
 	
 - [Stark](https://www.getstark.co/) <br>
-Tool description goes here
+Figma plugin for color analysis
 
 - [Who Can Use](https://whocanuse.com/) <br>
-Tool description goes here
+Who can use your color combinations?
 
 <br>
 
 ### 📙 Tools For Developers
 
 - [Wave](https://wave.webaim.org/) <br>
-Tool description goes here
+Web accessibility evaluation tool, available as a URL testing site
 
 - [Axe](https://www.deque.com/axe/) <br>
-Tool description goes here
+Accessibility toolkit for developers, available as a Developer Tools add-on
 
 <br>
 
 ### 📙 Screen Readers
 
 - [JAWS](https://support.freedomscientific.com/Downloads/JAWS) <br>
-Tool description goes here
+Most used screen reader software
 
 - [NVDA](https://www.nvaccess.org/download/) <br>
-Tool description goes here
+Free, open-source screen reader software
 
 <br>
 <br>
