@@ -12,7 +12,7 @@
 
 <br>
 
-Complete framework for ensuring **Accessibility** of Glide projects.
+Complete framework for ensuring **Accessibility Compliance** of Glide projects.
 
 This framework includes guidelines according to `WCAG 2.0` & `WCAG 2.1` - `Level A`. These rules must be followed to make Glide projects accessible.
 
