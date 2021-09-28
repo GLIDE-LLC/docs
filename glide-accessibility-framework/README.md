@@ -23,13 +23,13 @@ This document breaks it down to the responsibility level, making it easier for e
 
 | #  | Topics |
 |----|-------|
-| 01 | [Responsibilities of Project Manager](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#2%EF%B8%8F%E2%83%A3---responsibilities-of-developers) |
-| 02 | [Responsibilities of Designers](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#2%EF%B8%8F%E2%83%A3---responsibilities-of-developers) |
-| 03 | [Responsibilities of Developers](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#3%EF%B8%8F%E2%83%A3---responsibilities-of-content-editors) |
-| 04 | [Responsibilities of Client](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#1%EF%B8%8F%E2%83%A3---responsibilities-of-designers) |
-| 05 | [Responsibilities of Content Editor](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#3%EF%B8%8F%E2%83%A3---responsibilities-of-content-editors) |
-| 06 | [Responsibilities of Tester](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#3%EF%B8%8F%E2%83%A3---responsibilities-of-content-editors) |
-| 07 | [Accessibility Tools & Resources](https://github.com/abubakar-me/glide-design/tree/master/glide-accessibility-framework#3%EF%B8%8F%E2%83%A3---responsibilities-of-content-editors) |
+| 01 | [Responsibilities of Project Manager](https://github.com/abubakar-me/glide-design/blob/master/glide-accessibility-framework/README.md#1%EF%B8%8F%E2%83%A3---responsibilities-of-project-manager) |
+| 02 | [Responsibilities of Designers](https://github.com/abubakar-me/glide-design/blob/master/glide-accessibility-framework/README.md#2%EF%B8%8F%E2%83%A3---responsibilities-of-designers) |
+| 03 | [Responsibilities of Developers](https://github.com/abubakar-me/glide-design/blob/master/glide-accessibility-framework/README.md#3%EF%B8%8F%E2%83%A3---responsibilities-of-developers) |
+| 04 | [Responsibilities of Client](https://github.com/abubakar-me/glide-design/blob/master/glide-accessibility-framework/README.md#4%EF%B8%8F%E2%83%A3---responsibilities-of-client) |
+| 05 | [Responsibilities of Content Editor](https://github.com/abubakar-me/glide-design/blob/master/glide-accessibility-framework/README.md#5%EF%B8%8F%E2%83%A3---responsibilities-of-content-editor) |
+| 06 | [Responsibilities of Tester](https://github.com/abubakar-me/glide-design/blob/master/glide-accessibility-framework/README.md#6%EF%B8%8F%E2%83%A3---responsibilities-of-tester) |
+| 07 | [Accessibility Tools & Resources](https://github.com/abubakar-me/glide-design/blob/master/glide-accessibility-framework/README.md#7%EF%B8%8F%E2%83%A3---accessibility-tools--resources) |
 
 
 <br>
