@@ -119,9 +119,9 @@ This document breaks it down to the responsibility level, making it easier for e
 
 ### 📙 Analysis
 
-- Review Google Analytics data
+- Review `Google Analytics` data
 
-- Review Search Console data
+- Review `Search Console` data
 
 - Create list of important pages
 
@@ -133,27 +133,27 @@ This document breaks it down to the responsibility level, making it easier for e
 
 ### 📕 Devise Budgets
 
-- Devise budget for timing milestones
+- Devise budget for `timing milestones`
 
-- Devise budget for quantity-based metrics
+- Devise budget for `quantity-based metrics`
 
-- Devise budget for rule-based metrics
+- Devise budget for `rule-based metrics`
 
-- Devise budget for core web vitals
+- Devise budget for `core web vitals`
 
 <br>
 
 ### 📗 Devise Rules
 
-- Devise rules for images
+- Devise rules for `images`
 
-- Devise rules for fonts
+- Devise rules for `fonts`
 
-- Devise rules for videos
+- Devise rules for `videos`
 
-- Devise rules for scripts
+- Devise rules for `scripts`
 
-- Devise rules for animations and effects
+- Devise rules for `animations and effects`
 
 <br>
 <br>
