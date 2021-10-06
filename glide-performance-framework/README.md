@@ -174,15 +174,15 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-👉 Adhere to image rules set in performance budget
+👉 Adhere to `image` rules set in performance budget
 
 <br>
 
-👉 Adhere to font rules set in performance budget
+👉 Adhere to `font` rules set in performance budget
 
 <br>
 
-👉 Adhere to video rules set in performance budget
+👉 Adhere to `video` rules set in performance budget
 
 <br>
 <br>
@@ -208,11 +208,11 @@ This document breaks it down to the responsibility level, making it easier for e
 
 - Keep the server response time short
 
-- Use HTTP/2
+- Use `HTTP/2`
 
-- Enable keep-alive
+- Enable `keep-alive`
 
-- Use Latest PHP Version
+- Use Latest `PHP` Version
 
 <br>
 
@@ -230,13 +230,13 @@ This document breaks it down to the responsibility level, making it easier for e
 
 - Split comments into pages
 
-- Use excerpts on homepage and archive pages
+- Use excerpts on `homepage` and `archive` pages
 
 - Split long posts into pages
 
-- Fix SSL errors
+- Fix `SSL` errors
 
-- Turn off pingbacks and trackbacks, if not using
+- Turn off `pingbacks` and `trackbacks`, if not using
 
 - Disable hotlinking and leeching of content
 
@@ -321,29 +321,29 @@ This document breaks it down to the responsibility level, making it easier for e
 
 ### 📕 HTML
 
-- Enable gzip compression
+- Enable `gzip` compression
 
-- Avoid an excessive DOM size
+- Avoid an excessive `DOM` size
 
 <br>
 
 ### 📗 CSS
 
-- Minify CSS
+- Minify `CSS`
 
-- Remove unused CSS
+- Remove unused `CSS`
 
 - Avoid large layout shifts
 
-- Eliminate render-blocking CSS
+- Eliminate render-blocking `CSS`
 
-- Avoid CSS import
+- Avoid `CSS` import
 
-- Combine images using CSS sprites
+- Combine images using `CSS` sprites
 
-- Inline small CSS
+- Inline small `CSS`
 
-- Add critical path CSS
+- Add critical path `CSS`
 
 <br>
 
@@ -351,17 +351,17 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-- Minify JavaScript
+- Minify `JavaScript`
 
-- Remove unused JavaScript
+- Remove unused `JavaScript`
 
-- Remove duplicate modules in JavaScript bundles
+- Remove duplicate modules in `JavaScript` bundles
 
-- Avoid serving legacy JavaScript to modern browsers
+- Avoid serving legacy `JavaScript` to modern browsers
 
-- Avoid document.write()
+- Avoid `document.write()`
 
-- Reduce time spent parsing, compiling, and executing JS
+- Reduce time spent parsing, compiling, and executing `JS`
 
 - Avoid long main-thread tasks
 
@@ -371,17 +371,17 @@ This document breaks it down to the responsibility level, making it easier for e
 
 - Preload Largest Contentful Paint element
 
-- Eliminate render-blocking Javascript
+- Eliminate render-blocking `Javascript`
 
-- Inline small Javascript
+- Inline small `Javascript`
 
 - Use asynchronous scripts
 
-- Defer parse Javascript
+- Defer parse `Javascript`
 
-- Delay Javascript execution
+- Delay `Javascript` execution
 
-- Instrument your app with the User Timing API
+- Instrument your app with the User Timing `API`
 
 <br>
 
@@ -393,17 +393,17 @@ This document breaks it down to the responsibility level, making it easier for e
 
 - Efficiently encode images
 
-- Serve images in next-gen formats
+- Serve images in `next-gen` formats
 
-- Add explicit width and height to images
+- Add explicit `width` and `height` to images
 
 - Preload Largest Contentful Paint image
 
 - Install WordPress image optimization plugin
 
-- Enable lazy load for images (if needed)
+- Enable lazy load for `images` (if needed)
 
-- Enable lazy load for iframes and videos (if needed)
+- Enable lazy load for `iframes` and `videos` (if needed)
 
 <br>
 
@@ -419,7 +419,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 - Preload fonts
 
-- Use font display API
+- Use font display `API`
 
 - Ensure that there are no flashes of invisible text
 
@@ -460,7 +460,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 ### 📕 Images
 
-- Always use webp images
+- Always use `webp` images
 
 - Optimize images before uploading
 
@@ -490,9 +490,9 @@ This document breaks it down to the responsibility level, making it easier for e
 
 - Test page size after adding content and images
 
-- Adhere to page size rules set in performance budget
+- Adhere to `page size` rules set in performance budget
 
-- Adhere to image rules set in performance budget
+- Adhere to `image` rules set in performance budget
 
 <br>
 <br>
