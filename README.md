@@ -58,6 +58,14 @@ Purpose of these documents is to ensure that all developers across all teams fol
 ✔️ Framework for accessibility compliance of Glide projects.
 
 <br>
+
+## [Glide Performance Framework](https://github.com/abubakar-me/glide-design/tree/master/glide-performance-framework)
+
+<br>
+
+✔️ Framework for performance optimization of Glide projects.
+
+<br>
 <br>
 <br>
 
