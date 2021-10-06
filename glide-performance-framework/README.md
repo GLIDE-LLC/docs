@@ -111,6 +111,8 @@ This document breaks it down to the responsibility level, making it easier for e
 
 ## 2️⃣ - Defining the Performance Budget
 
+<br>
+
 > ✔️ This is a collective team effort which will most likely be lead by development team.
 
 <br>
@@ -164,10 +166,6 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-> ✔️ Designers should follow these guidelines when designing Glide projects.
-
-<br>
-
 👉 Review performance budget and rules
 
 <br>
@@ -197,7 +195,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-> ✔️ Get following content pieces and resources from client.
+> ✔️ Developer should follow these guidelines to ensure performance optimization.
 
 <br>
 <br>
@@ -448,7 +446,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 <br>
 
-> ✔️ Content editors should follow these guidelines when adding content to Glide projects.
+> ✔️ Content editors should follow these guidelines when working with content.
 
 <br>
 
@@ -574,13 +572,13 @@ Video Compressor
 <br>
 <br>
 
-⚠️ Its critical that all project team members follow these guidelines according to their role to ensure accessibility compliance.
+⚠️ Its critical that all project team members follow these guidelines according to their role to ensure performance optimization.
 
 <br>
 <br>
 <br>
 
-Happy Accessibility!
+Happy Performance!
 
 <br>
 
