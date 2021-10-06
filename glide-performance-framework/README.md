@@ -65,7 +65,7 @@ This document breaks it down to the responsibility level, making it easier for e
 
 	 ▪️  A performance budget is a set of limits imposed on metrics that affect site performance
 
-	 ▪️  This could be the total size of a page, the time it takes to load on a mobile network, or even the number of HTTP requests that are sent
+	 ▪️  This could be the total size of a page, the time it takes to load on a mobile, or even the number of HTTP requests
 
 	 ▪️  Defining a budget helps get the web performance conversation started
 
