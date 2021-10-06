@@ -14,9 +14,9 @@
 
 Complete framework for ensuring **Performance Optimization** of Glide projects.
 
-This framework includes guidelines according to `WCAG 2.0` & `WCAG 2.1` - `Level A`. These rules must be followed to make Glide projects accessible.
+This framework includes guidelines according to `Lighthouse Audits`. These rules must be followed to make Glide projects load fast.
 
-This document breaks it down to the responsibility level, making it easier for everyone involved in a project to achieve accessibility compliance.
+This document breaks it down to the responsibility level, making it easier for everyone involved in a project to achieve performance optimization.
 
 <br>
 
