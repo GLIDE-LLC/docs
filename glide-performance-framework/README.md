@@ -33,8 +33,8 @@ This document breaks it down to the responsibility level, making it easier for e
 | 02 | [Defining the Performance Budget](https://github.com/abubakar-me/glide-design/blob/master/glide-accessibility-framework/README.md#2%EF%B8%8F%E2%83%A3---responsibilities-of-designers) |
 | 03 | [Responsibilities of Designer](https://github.com/abubakar-me/glide-design/blob/master/glide-accessibility-framework/README.md#3%EF%B8%8F%E2%83%A3---responsibilities-of-developers) |
 | 04 | [Responsibilities of Developer](https://github.com/abubakar-me/glide-design/blob/master/glide-accessibility-framework/README.md#4%EF%B8%8F%E2%83%A3---responsibilities-of-client) |
-|    | [       Setting up best environment for performance](https://github.com/abubakar-me/glide-design/blob/master/glide-accessibility-framework/README.md#4%EF%B8%8F%E2%83%A3---responsibilities-of-client) |
-|    | [       Coding best theme for performance](https://github.com/abubakar-me/glide-design/blob/master/glide-accessibility-framework/README.md#4%EF%B8%8F%E2%83%A3---responsibilities-of-client) |
+|    | [&nbsp; &nbsp; &nbsp; &nbsp;Setting up best environment for performance](https://github.com/abubakar-me/glide-design/blob/master/glide-accessibility-framework/README.md#4%EF%B8%8F%E2%83%A3---responsibilities-of-client) |
+|    | [&nbsp; &nbsp; &nbsp; &nbsp;Coding best theme for performance](https://github.com/abubakar-me/glide-design/blob/master/glide-accessibility-framework/README.md#4%EF%B8%8F%E2%83%A3---responsibilities-of-client) |
 | 05 | [Responsibilities of Content Editor](https://github.com/abubakar-me/glide-design/blob/master/glide-accessibility-framework/README.md#5%EF%B8%8F%E2%83%A3---responsibilities-of-content-editor) |
 | 06 | [Performance Tools & Resources](https://github.com/abubakar-me/glide-design/blob/master/glide-accessibility-framework/README.md#6%EF%B8%8F%E2%83%A3---responsibilities-of-tester) |
 
